@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/categories/</link>
+      <atom:link href="https://mounabelaid.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2021</copyright><lastBuildDate>Thu, 10 Jun 2021 23:53:10 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://mounabelaid.netlify.app/categories/</link>
+    </image>
+    
+    <item>
+      <title>coding</title>
+      <link>https://mounabelaid.netlify.app/categories/coding/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>https://mounabelaid.netlify.app/categories/datascience/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rprogramming</title>
+      <link>https://mounabelaid.netlify.app/categories/rprogramming/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/rprogramming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstats</title>
+      <link>https://mounabelaid.netlify.app/categories/rstats/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webinars</title>
+      <link>https://mounabelaid.netlify.app/categories/webinars/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/webinars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://mounabelaid.netlify.app/categories/workshop/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mounabelaid.netlify.app/categories/python/</link>
+      <pubDate>Mon, 01 Mar 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pythonprogramming</title>
+      <link>https://mounabelaid.netlify.app/categories/pythonprogramming/</link>
+      <pubDate>Mon, 01 Mar 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/categories/pythonprogramming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
