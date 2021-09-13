@@ -47,7 +47,7 @@ useR! conferences are non-profit conferences organized by community volunteers f
 
 My main contributions are the following:
 
-1. Co-author of the "Data Visualization using ggplot2 and its extensions" accepted tutorial
+1. Co-author of the ["Data Visualization using ggplot2 and its extensions"](https://www.conftool.org/user2021/index.php?page=browseSessions&form_session=1#paperID300) accepted tutorial
 2. Contribute in the ["Expanding the R community in the Middle East and North 
 Africa (MENA)" incubator](https://docs.google.com/presentation/d/1ZZsIUKYyy0lGxd7IsZfFYsatwH9dK5qqr2_o9t9vL5k/edit#slide=id.gda9faf73b9_0_0)
 3. Chair the ["4A - Trends, Markets and Models"](https://www.youtube.com/watch?v=Kkjkny94dgU&list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2&index=5) session

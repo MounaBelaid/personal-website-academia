@@ -27,7 +27,7 @@
       <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://mounabelaid.netlify.app/project/twittersentimentanalysis/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://mounabelaid.shinyapps.io/twittersentimentanalysis/&#34;&gt;this application&lt;/a&gt;, the user would be able to extract data from Twitter. I focus the work on American twitter profiles :&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Hill&lt;/strong&gt; - &lt;strong&gt;Reuters Top News&lt;/strong&gt; - &lt;strong&gt;Sky News&lt;/strong&gt; - &lt;strong&gt;BBC News (World)&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;The Hill&lt;/strong&gt; - &lt;strong&gt;Reuters Top News&lt;/strong&gt; - &lt;strong&gt;Sky News&lt;/strong&gt; - &lt;strong&gt;BBC News (World)&lt;/strong&gt;
 &lt;strong&gt;The New York Times&lt;/strong&gt; - &lt;strong&gt;CNN International&lt;/strong&gt; - &lt;strong&gt;HuffPost&lt;/strong&gt; - &lt;strong&gt;Fox News&lt;/strong&gt; -
 &lt;strong&gt;CNBC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I resort to text mining in order to create a wordcloud which shows the most frequented words used in the last 100 tweets. The tweets would be cleaned before the display of the wordcloud. The user may change the number of tweets extracted using the radio button. Morever, I perform a sentiment analysis of textual contents of twitter posts by using the categories identified as anger, anticipation, disgust, fear, joy, negative, positive, sadness, surprise and trust. It would be possible to download the barplot.&lt;/p&gt;
