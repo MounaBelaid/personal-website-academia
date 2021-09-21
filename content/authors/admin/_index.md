@@ -30,7 +30,7 @@ name: Mouna Belaid
 organizations:
 - name: Paris, France
 
-role: Business Intelligence Consultant based at the Societe Generale Bank - Head Office | R-Ladies Global Team Member | Co-Founder & Co-Organizer at PyLadies Tunis & R-Ladies Tunis
+role: Business Intelligence Consultant based at the Societe Generale Bank - Head Office | R-Ladies Global Team Member | Co-Founder & Co-Organizer at Tunis R User Group and PyLadies Tunis
 
 social:
 - icon: envelope
