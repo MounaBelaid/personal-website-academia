@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/</link>
+      <atom:link href="https://mounabelaid.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mouna Belaid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2021</copyright><lastBuildDate>Thu, 07 Oct 2021 17:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>Mouna Belaid</title>
+      <link>https://mounabelaid.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://mounabelaid.netlify.app/talk/</link>
+      <pubDate>Thu, 07 Oct 2021 17:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://mounabelaid.netlify.app/post/</link>
+      <pubDate>Thu, 10 Jun 2021 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mounabelaid.netlify.app/project/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://mounabelaid.netlify.app/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/slides/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rladies | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/rladies/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+    <description>rladies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2021</copyright><lastBuildDate>Thu, 07 Oct 2021 17:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>rladies</title>
+      <link>https://mounabelaid.netlify.app/tags/rladies/</link>
+    </image>
+    
+    <item>
+      <title>Women in Statistics and Data Science Conference organized by the American Statistical Association</title>
+      <link>https://mounabelaid.netlify.app/talk/women-in-statistics-and-data-science-conference/</link>
+      <pubDate>Thu, 07 Oct 2021 17:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/women-in-statistics-and-data-science-conference/</guid>
+      <description>&lt;p&gt;I was pleased to participate as a panelist in the (Women in Statistics and Data Science conference)[https://ww2.amstat.org/meetings/wsds/2021/] on October 7, 2021 organized by the American Statistical Association. I was sharing the &amp;ldquo;R-Ladies: Building, Growing, and Sustaining a Community&amp;rdquo; panel with wonderful R-Ladies: Shelmith Kariuki, Yanina Bellini Saibene and Athanasia Monika Mowinckel.&lt;/p&gt;
+&lt;p&gt;I was talking about how volunteering has been contributing to my professional career and how there is a way to take part in my future.&lt;/p&gt;
+&lt;p&gt;My special thanks go to Mine Çetinkaya-Rundel for bringing this up!&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://docs.google.com/presentation/d/1XZGIS7u9BS9xrk_wK-A3aC3ksgbhOgre/edit?usp=sharing&amp;amp;ouid=104555579578156232607&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;link&lt;/a&gt; my slides. You might also review &lt;a href=&#34;https://youtu.be/uvOewiY9Aq0&#34;&gt;the recording video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monthly Community Meeting at Prime Analytics</title>
+      <link>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</link>
+      <pubDate>Thu, 08 Apr 2021 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</guid>
+      <description>&lt;p&gt;At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliever a talk about: R-Ladies Tunis. It was worth it!&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction of R-Ladies Global&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Launch of R-Ladies Tunis&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Various use of the programming language R&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Sharing our recent achievements&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://tinyurl.com/4vn5nxtn&#34;&gt;link&lt;/a&gt; my slides. You find the recording video on my &lt;a href=&#34;https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos&#34;&gt;YouTube Channel&lt;/a&gt; via this &lt;a href=&#34;https://youtu.be/h9ejk4DxpYo&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
