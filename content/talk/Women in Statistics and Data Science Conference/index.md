@@ -41,7 +41,7 @@ projects = []
   focal_point = ""
 +++
 
-I was pleased to participate as a panelist in the (Women in Statistics and Data Science conference)[https://ww2.amstat.org/meetings/wsds/2021/] on October 7, 2021 organized by the American Statistical Association. I was sharing the "R-Ladies: Building, Growing, and Sustaining a Community" panel with wonderful R-Ladies: Shelmith Kariuki, Yanina Bellini Saibene and Athanasia Monika Mowinckel.
+I was pleased to participate as a panelist in the [Women in Statistics and Data Science conference](https://ww2.amstat.org/meetings/wsds/2021/) on October 7, 2021 organized by the American Statistical Association. I was sharing the "R-Ladies: Building, Growing, and Sustaining a Community" panel with wonderful R-Ladies: Shelmith Kariuki, Yanina Bellini Saibene and Athanasia Monika Mowinckel.
 
 I was talking about how volunteering has been contributing to my professional career and how there is a way to take part in my future.
 
