@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
-title = "PyLadies Tunis and Tunis R User Group Experiences"
+title = "R-Ladies Paris Experience"
 subtitle = ""
 
 [content]

@@ -93,101 +93,6 @@
   </url>
   
   <url>
-    <loc>https://mounabelaid.netlify.app/categories/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/coding/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/coding/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/datanalysis/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/datascience/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/datascience/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/datavisualization/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/deeplearning/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/meetups/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/authors/mouna-belaid-tunis-r-user-group-co-founder-and-co-organizer/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/nlp/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/post/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/rprogramming/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/rstats/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/statistics/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/post/tunis-r-user-group-meetups/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/webinars/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/workshop/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/workshop/</loc>
-    <lastmod>2021-06-10T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mounabelaid.netlify.app/tags/community/</loc>
     <lastmod>2021-04-08T18:00:00+02:00</lastmod>
   </url>
@@ -213,33 +118,8 @@
   </url>
   
   <url>
-    <loc>https://mounabelaid.netlify.app/authors/mouna-belaid-pyladies-tunis-co-founder-and-co-organizer/</loc>
-    <lastmod>2021-03-01T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/post/pyladies-tunis-meetups/</loc>
-    <lastmod>2021-03-01T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/python/</loc>
-    <lastmod>2021-03-01T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/python/</loc>
-    <lastmod>2021-03-01T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/tags/pythonprogramming/</loc>
-    <lastmod>2021-03-01T23:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mounabelaid.netlify.app/categories/pythonprogramming/</loc>
-    <lastmod>2021-03-01T23:53:10+02:00</lastmod>
+    <loc>https://mounabelaid.netlify.app/tags/datascience/</loc>
+    <lastmod>2021-03-06T18:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -334,6 +214,14 @@
   
   <url>
     <loc>https://mounabelaid.netlify.app/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mounabelaid.netlify.app/post/</loc>
   </url>
   
   <url>
