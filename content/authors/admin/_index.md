@@ -70,6 +70,6 @@ I'm also delighted to be part of the [R-Ladies Global Team](https://rladies.org/
 
 I'm also the community organizer of [R-Ladies Paris](https://www.meetup.com/rladies-paris/) and member of [Arab-R](https://arabr.github.io/) committee.
 
-I'm so happy for being part of these great communities. These experiences are helping me to expand my network, meet amazing people worldwide, get inspired by them, and improving my R and Python skills.
+I'm so happy for being part of these great communities. These experiences are helping me to expand my network, meet amazing people worldwide, get inspired by them, and improve my R and Python skills.
 
 This website is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/).
