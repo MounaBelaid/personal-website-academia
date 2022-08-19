@@ -38,7 +38,7 @@ social:
   link: 'mailto:belaid.mounaa@gmail.com'
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug
+  link: https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mounaa_belaid 
@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/mouna-belaid-b10300112/
 - icon: r-project
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCyf1AvRK4gmfRUJjeBNMauA
+  link: https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug
 superuser: true
 
 ---
