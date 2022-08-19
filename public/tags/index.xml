@@ -5,12 +5,84 @@
     <link>https://mounabelaid.netlify.app/tags/</link>
       <atom:link href="https://mounabelaid.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Thu, 07 Oct 2021 17:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Thu, 18 Aug 2022 23:53:10 +0200</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://mounabelaid.netlify.app/tags/</link>
     </image>
+    
+    <item>
+      <title>coding</title>
+      <link>https://mounabelaid.netlify.app/tags/coding/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>https://mounabelaid.netlify.app/tags/datascience/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datavisualization</title>
+      <link>https://mounabelaid.netlify.app/tags/datavisualization/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/datavisualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deeplearning</title>
+      <link>https://mounabelaid.netlify.app/tags/deeplearning/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/deeplearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetups</title>
+      <link>https://mounabelaid.netlify.app/tags/meetups/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://mounabelaid.netlify.app/tags/nlp/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rprogramming</title>
+      <link>https://mounabelaid.netlify.app/tags/rprogramming/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rprogramming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstats</title>
+      <link>https://mounabelaid.netlify.app/tags/rstats/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://mounabelaid.netlify.app/tags/workshop/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>communitybuilding</title>
@@ -69,22 +141,6 @@
     </item>
     
     <item>
-      <title>Rprogramming</title>
-      <link>https://mounabelaid.netlify.app/tags/rprogramming/</link>
-      <pubDate>Mon, 05 Jul 2021 09:00:00 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/rprogramming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RStats</title>
-      <link>https://mounabelaid.netlify.app/tags/rstats/</link>
-      <pubDate>Mon, 05 Jul 2021 09:00:00 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/rstats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>useR2021</title>
       <link>https://mounabelaid.netlify.app/tags/user2021/</link>
       <pubDate>Mon, 05 Jul 2021 09:00:00 +0200</pubDate>
@@ -113,14 +169,6 @@
       <link>https://mounabelaid.netlify.app/tags/dataanalytics/</link>
       <pubDate>Sat, 06 Mar 2021 18:30:00 +0200</pubDate>
       <guid>https://mounabelaid.netlify.app/tags/dataanalytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datascience</title>
-      <link>https://mounabelaid.netlify.app/tags/datascience/</link>
-      <pubDate>Sat, 06 Mar 2021 18:30:00 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/datascience/</guid>
       <description></description>
     </item>
     

@@ -3,7 +3,7 @@ title = "R-Ladies Paris"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "A list of the upcoming events organized by R-Ladies Paris"
+summary = "A list of the past and upcoming events organized by R-Ladies Paris"
 
 date = 2022-08-18T23:53:10+02:00
 draft = false

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datascience | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/categories/datascience/</link>
+      <atom:link href="https://mounabelaid.netlify.app/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
+    <description>datascience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Thu, 18 Aug 2022 23:53:10 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>datascience</title>
+      <link>https://mounabelaid.netlify.app/categories/datascience/</link>
+    </image>
+    
+    <item>
+      <title>R-Ladies Paris</title>
+      <link>https://mounabelaid.netlify.app/post/r-ladies-paris-meetups/</link>
+      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/post/r-ladies-paris-meetups/</guid>
+      <description>&lt;p&gt;We are &lt;a href=&#34;https://www.meetup.com/rladies-paris/&#34;&gt;R-Ladies Paris&lt;/a&gt;, a network of R practitioners in Paris. We are a local chapter of a global open source community promoting gender inclusivity in the R community worldwide, &lt;a href=&#34;https://t.co/7HMQw0VGas&#34;&gt;R-Ladies Global&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our goals are to provide a supportive and encouraging network for R users who identify as female and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices. Everyone is welcome to join us!&lt;/p&gt;
+&lt;p&gt;We aim to meetup in person or virtually to learn about the R programming language, algorithms and advanced tools using R.&lt;/p&gt;
+&lt;p&gt;Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in working with R.&lt;/p&gt;
+&lt;p&gt;We exchange materials, discuss any issues we have on working with R, and share news and updates about R. We are really part of great community.&lt;/p&gt;
+&lt;p&gt;If you have missed our previous meetups, we are happy to share with you all the recording videos on our YouTube channel. Please have a look &lt;a href=&#34;https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug&#34;&gt;here&lt;/a&gt; and don&amp;rsquo;t forget to subscribe!&lt;/p&gt;
+&lt;p&gt;Please find below a list of the previous meetups organized by &lt;a href=&#34;https://twitter.com/RLadiesParis&#34;&gt;R-Ladies Paris&lt;/a&gt;. You are welcome to join &lt;a href=&#34;https://www.meetup.com/rladies-paris/&#34;&gt;our Meetup group&lt;/a&gt; to be notified about our next activities!&lt;/p&gt;
+&lt;p&gt;We are always open to collaborate on R-related subjects!&lt;/p&gt;
+&lt;p&gt;How to reach us: &lt;a href=&#34;mailto:paris@rladies.org&#34;&gt;paris@rladies.org&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;past-events&#34;&gt;Past events&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Invited speaker(s)&lt;/th&gt;
+&lt;th&gt;Moderator(s)&lt;/th&gt;
+&lt;th&gt;Place&lt;/th&gt;
+&lt;th&gt;Event materials&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;September 8, 2022&lt;/td&gt;
+&lt;td&gt;7pm - 8:30pm&lt;/td&gt;
+&lt;td&gt;Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data&lt;/td&gt;
+&lt;td&gt;Workshop [&lt;a href=&#34;https://www.meetup.com/rladies-paris/events/287856868/&#34;&gt;link&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://meghan.rbind.io/&#34;&gt;Meghan Hall&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://mounabelaid.netlify.app/&#34;&gt;Mouna Belaid&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Zoom&lt;/td&gt;
+&lt;td&gt;To provide&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
