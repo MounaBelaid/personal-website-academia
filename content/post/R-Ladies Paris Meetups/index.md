@@ -49,7 +49,7 @@ We aim to meetup in person or virtually to learn about the R programming languag
 
 Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in working with R.
 
-We exchange materials, discuss any issues we have on working with R, and share news and updates about R. We are really a part of great community.
+We exchange materials, discuss any issues we have on working with R, and share news and updates about R. We are really part of great community.
 
 If you have missed our previous meetups, we are happy to share with you all the recording videos on our YouTube channel. Please have a look [here](https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug) and don't forget to subscribe!
 
