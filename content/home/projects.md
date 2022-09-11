@@ -36,7 +36,15 @@ subtitle = ""
   [[content.filter_button]]
   name = "Academic projects"
   tag = "Academic projects"
-
+  
+  [[content.filter_button]]
+  name = "R-based work"
+  tag = "R-based work"
+  
+  [[content.filter_button]]
+  name = "YouTube videos about R"
+  tag = "YouTube videos about R" 
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

@@ -17,7 +17,7 @@ summary: ""
 url_code: 
 url_pdf: 
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=vDitGlt4WdA&t=1s"
 ---
 
 [covid19tunisia](https://github.com/MounaBelaid/covid19tunisia) is the package that I have recently built in the programming language R.
