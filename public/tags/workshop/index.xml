@@ -5,12 +5,23 @@
     <link>https://mounabelaid.netlify.app/tags/workshop/</link>
       <atom:link href="https://mounabelaid.netlify.app/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Thu, 18 Aug 2022 23:53:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Sat, 24 Sep 2022 17:30:00 +0100</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>workshop</title>
       <link>https://mounabelaid.netlify.app/tags/workshop/</link>
     </image>
+    
+    <item>
+      <title>Getting famliar with Git and GitHub in RStudio</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</guid>
+      <description>&lt;p&gt;Join me on September 24 at 5:30pm CEST! This workshop will serve as an introduction to the use of Git and GitHub in RStudio. This workshop is designed for new R programmers, new GitHub users, new Git users, students, and managers. Besides, some programming knowledge with R will be helpful but is not required.&lt;/p&gt;
+&lt;p&gt;Registration is required, and the event is free!&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://mounabelaid.github.io/Getting-familiar-with-the-use-of-git-and-github-in-rstudio/&#34;&gt;link&lt;/a&gt; my slides.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>R-Ladies Paris</title>

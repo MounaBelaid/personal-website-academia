@@ -5,12 +5,60 @@
     <link>https://mounabelaid.netlify.app/tags/</link>
       <atom:link href="https://mounabelaid.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Thu, 18 Aug 2022 23:53:10 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Sat, 24 Sep 2022 17:30:00 +0100</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://mounabelaid.netlify.app/tags/</link>
     </image>
+    
+    <item>
+      <title>git</title>
+      <link>https://mounabelaid.netlify.app/tags/git/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://mounabelaid.netlify.app/tags/github/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rladies</title>
+      <link>https://mounabelaid.netlify.app/tags/rladies/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://mounabelaid.netlify.app/tags/rstudio/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rusergroup</title>
+      <link>https://mounabelaid.netlify.app/tags/rusergroup/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rusergroup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://mounabelaid.netlify.app/tags/workshop/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>coding</title>
@@ -77,14 +125,6 @@
     </item>
     
     <item>
-      <title>workshop</title>
-      <link>https://mounabelaid.netlify.app/tags/workshop/</link>
-      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R-based work</title>
       <link>https://mounabelaid.netlify.app/tags/r-based-work/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -105,14 +145,6 @@
       <link>https://mounabelaid.netlify.app/tags/communitybuilding/</link>
       <pubDate>Thu, 07 Oct 2021 17:00:00 +0100</pubDate>
       <guid>https://mounabelaid.netlify.app/tags/communitybuilding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rladies</title>
-      <link>https://mounabelaid.netlify.app/tags/rladies/</link>
-      <pubDate>Thu, 07 Oct 2021 17:00:00 +0100</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/rladies/</guid>
       <description></description>
     </item>
     
@@ -201,22 +233,6 @@
       <link>https://mounabelaid.netlify.app/tags/covid19data/</link>
       <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
       <guid>https://mounabelaid.netlify.app/tags/covid19data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://mounabelaid.netlify.app/tags/git/</link>
-      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://mounabelaid.netlify.app/tags/github/</link>
-      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/github/</guid>
       <description></description>
     </item>
     
