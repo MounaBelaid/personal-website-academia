@@ -3,7 +3,7 @@ title = "Getting famliar with Git and GitHub in RStudio"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "The workshop aims to provide you with the basic skills to get familiar with the use of Git and GitHub in RStduio."
+summary = "The workshop aims to provide you with the basic skills to get familiar with the use of Git and GitHub in RStudio."
 
 date = 2022-09-24T17:30:00+01:00
 
