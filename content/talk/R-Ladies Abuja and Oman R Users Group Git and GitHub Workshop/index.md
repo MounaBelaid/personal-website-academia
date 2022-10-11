@@ -1,5 +1,5 @@
 +++
-title = "Getting famliar with Git and GitHub in RStudio"
+title = "Getting familiar with Git and GitHub in RStudio"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
