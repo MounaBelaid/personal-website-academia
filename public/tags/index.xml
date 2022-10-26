@@ -5,7 +5,7 @@
     <link>https://mounabelaid.netlify.app/tags/</link>
       <atom:link href="https://mounabelaid.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Sat, 24 Sep 2022 17:30:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Tue, 25 Oct 2022 18:00:00 +0100</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>git</title>
       <link>https://mounabelaid.netlify.app/tags/git/</link>
-      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
       <guid>https://mounabelaid.netlify.app/tags/git/</guid>
       <description></description>
     </item>
@@ -23,8 +23,24 @@
     <item>
       <title>github</title>
       <link>https://mounabelaid.netlify.app/tags/github/</link>
-      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
       <guid>https://mounabelaid.netlify.app/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstudio</title>
+      <link>https://mounabelaid.netlify.app/tags/rstudio/</link>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://mounabelaid.netlify.app/tags/workshop/</link>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/tags/workshop/</guid>
       <description></description>
     </item>
     
@@ -37,26 +53,10 @@
     </item>
     
     <item>
-      <title>rstudio</title>
-      <link>https://mounabelaid.netlify.app/tags/rstudio/</link>
-      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rusergroup</title>
       <link>https://mounabelaid.netlify.app/tags/rusergroup/</link>
       <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
       <guid>https://mounabelaid.netlify.app/tags/rusergroup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://mounabelaid.netlify.app/tags/workshop/</link>
-      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
-      <guid>https://mounabelaid.netlify.app/tags/workshop/</guid>
       <description></description>
     </item>
     

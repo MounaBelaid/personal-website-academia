@@ -5,7 +5,7 @@
     <link>https://mounabelaid.netlify.app/</link>
       <atom:link href="https://mounabelaid.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Mouna Belaid</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Sat, 24 Sep 2022 17:30:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Tue, 25 Oct 2022 18:00:00 +0100</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Mouna Belaid</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Talks</title>
       <link>https://mounabelaid.netlify.app/talk/</link>
-      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
       <guid>https://mounabelaid.netlify.app/talk/</guid>
       <description></description>
     </item>

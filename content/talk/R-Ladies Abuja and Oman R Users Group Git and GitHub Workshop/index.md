@@ -42,10 +42,10 @@ projects = []
   focal_point = ""
 +++
 
-Join me on September 24 at 5:30pm CEST! This workshop will serve as an introduction to the use of Git and GitHub in RStudio. This workshop is designed for new R programmers, new GitHub users, new Git users, students, and managers. Besides, some programming knowledge with R will be helpful but is not required.
+I was delighted to animate a workshop for [Oman R Users Group](https://www.meetup.com/oman-r-user/) and [R-Ladies Abuja](https://www.meetup.com/rladies-abuja/). The announcement is available [here](https://www.meetup.com/oman-r-user/events/288598836/).
 
-Registration is required, and the event is free!
+This workshop served as an introduction to the use of Git and GitHub in RStudio. This workshop was designed for new R programmers, new GitHub users, new Git users, students, and managers. Besides, some programming knowledge with R will be helpful but is not required.
 
-Please find in the following [link](https://mounabelaid.github.io/Getting-familiar-with-the-use-of-git-and-github-in-rstudio/) my slides.
+Please find in the following [link](https://mounabelaid.github.io/Getting-familiar-with-the-use-of-git-and-github-in-rstudio/) my slides. The recording video is also available [here](https://youtu.be/qbI_Xp_EubA).
 
 
