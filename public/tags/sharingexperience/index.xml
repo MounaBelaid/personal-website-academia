@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sharingexperience | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/sharingexperience/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/sharingexperience/index.xml" rel="self" type="application/rss+xml" />
+    <description>sharingexperience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Sat, 10 Jul 2021 18:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>sharingexperience</title>
+      <link>https://mounabelaid.netlify.app/tags/sharingexperience/</link>
+    </image>
+    
+    <item>
+      <title>Alteryx User Group Francophone Meetup</title>
+      <link>https://mounabelaid.netlify.app/talk/alteryx-user-groupe-francophone/</link>
+      <pubDate>Sat, 10 Jul 2021 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/alteryx-user-groupe-francophone/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;énorme plaisir de donner une présentation intitulée &amp;ldquo;Former C&amp;rsquo;est Apprendre Deux Fois&amp;rdquo; lors d&amp;rsquo;un meetup organisé par &lt;a href=&#34;https://community.alteryx.com/t5/Paris-FR-Francais/AUG-Francophone-Virtuel-4-Mardi-06-Juillet-2021-de-18h15-a-19h30/gpm-p/776663/highlight/true&#34;&gt;l&amp;rsquo;Alteryx User Group Francophone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;▶️ &lt;a href=&#34;https://drive.google.com/file/d/1b_YAE_InIy80JAQ05-dJfeTTfI8aznhk/view?usp=sharing&#34;&gt;Présentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▶️ L&amp;rsquo;enregistrement est partagé sur &lt;a href=&#34;https://youtu.be/pYIqhUQUxow&#34;&gt;ma chaine YouTube&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monthly Community Meeting at Prime Analytics</title>
+      <link>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</link>
+      <pubDate>Thu, 08 Apr 2021 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</guid>
+      <description>&lt;p&gt;At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliever a talk about: R-Ladies Tunis. It was worth it!&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction of R-Ladies Global&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Launch of R-Ladies Tunis&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Various use of the programming language R&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Sharing our recent achievements&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://tinyurl.com/4vn5nxtn&#34;&gt;link&lt;/a&gt; my slides. You find the recording video on my &lt;a href=&#34;https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos&#34;&gt;YouTube Channel&lt;/a&gt; via this &lt;a href=&#34;https://youtu.be/h9ejk4DxpYo&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Club TBS Webinar</title>
+      <link>https://mounabelaid.netlify.app/talk/data-science-club-tbs-webinar/</link>
+      <pubDate>Sat, 06 Mar 2021 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/data-science-club-tbs-webinar/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to participate this Saturday, March 6, 2021 to the event organized by &lt;a href=&#34;https://www.linkedin.com/company/data-science-club-tbs/&#34;&gt;the Data Science Club TBS&lt;/a&gt; on the topic of &lt;a href=&#34;https://www.linkedin.com/events/datascience-analytics-howtogopr6772245248702722048/&#34;&gt;Data Science &amp;amp; Analytics: How to Go PRO&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for organizing such a meetup.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://drive.google.com/file/d/1a8awMfrioeTTY0mrfH2qbG2XoNcC3O0o/view?usp=sharing&#34;&gt;link&lt;/a&gt; my slides. The recording video is uploaded on my &lt;a href=&#34;https://youtu.be/hXMSrSS2oV8&#34;&gt;YouTube channel&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

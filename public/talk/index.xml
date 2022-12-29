@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/talk/</link>
+      <atom:link href="https://mounabelaid.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Tue, 25 Oct 2022 18:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>Talks</title>
+      <link>https://mounabelaid.netlify.app/talk/</link>
+    </image>
+    
+    <item>
+      <title>First Steps in Learning the Use of Git and GitHub in RStudio</title>
+      <link>https://mounabelaid.netlify.app/talk/rstudio-enterprise-community-meetup-git-and-github-workshop/</link>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/rstudio-enterprise-community-meetup-git-and-github-workshop/</guid>
+      <description>&lt;p&gt;I was so pleased to go live and animate a practical session about the first steps in learning the use of Git and GitHub in RStudio during a meetup organized by &lt;a href=&#34;https://www.meetup.com/rstudio-enterprise-community-meetup/events/289074232/&#34;&gt;RStudio Enterprise Community Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This workshop served as an introduction to the use of Git and GitHub in RStudio. I was pleased to know that +140 people attended the session.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://mounabelaid.github.io/First-Steps-in-Learning-the-Use-of-Git-and-GitHub-in-RStudio/&#34;&gt;link&lt;/a&gt; my slides.
+The recording video is also available &lt;a href=&#34;https://www.youtube.com/watch?v=jN6tvgt3GK8&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You may add the upcoming events organized by RStudio Enterprise Community Meetup through the following &lt;a href=&#34;https://colorado.rstudio.com/rsc/upcoming-community-events/Upcoming%20Community%20Events.html&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting familiar with Git and GitHub in RStudio</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</guid>
+      <description>&lt;p&gt;I was delighted to animate a workshop for &lt;a href=&#34;https://www.meetup.com/oman-r-user/&#34;&gt;Oman R Users Group&lt;/a&gt; and &lt;a href=&#34;https://www.meetup.com/rladies-abuja/&#34;&gt;R-Ladies Abuja&lt;/a&gt;. The announcement is available &lt;a href=&#34;https://www.meetup.com/oman-r-user/events/288598836/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This workshop served as an introduction to the use of Git and GitHub in RStudio. This workshop was designed for new R programmers, new GitHub users, new Git users, students, and managers. Besides, some programming knowledge with R will be helpful but is not required.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://mounabelaid.github.io/Getting-familiar-with-the-use-of-git-and-github-in-rstudio/&#34;&gt;link&lt;/a&gt; my slides. The recording video is also available &lt;a href=&#34;https://youtu.be/qbI_Xp_EubA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Women in Statistics and Data Science Conference organized by the American Statistical Association</title>
+      <link>https://mounabelaid.netlify.app/talk/women-in-statistics-and-data-science-conference/</link>
+      <pubDate>Thu, 07 Oct 2021 17:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/women-in-statistics-and-data-science-conference/</guid>
+      <description>&lt;p&gt;I was pleased to participate as a panelist in the &lt;a href=&#34;https://ww2.amstat.org/meetings/wsds/2021/&#34;&gt;Women in Statistics and Data Science conference&lt;/a&gt; on October 7, 2021 organized by the American Statistical Association. I was sharing the &amp;ldquo;R-Ladies: Building, Growing, and Sustaining a Community&amp;rdquo; panel with wonderful R-Ladies: Shelmith Kariuki, Yanina Bellini Saibene and Athanasia Monika Mowinckel.&lt;/p&gt;
+&lt;p&gt;I was talking about how volunteering has been contributing to my professional career and how there is a way to take part in my future.&lt;/p&gt;
+&lt;p&gt;My special thanks go to Mine Çetinkaya-Rundel for bringing this up!&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://docs.google.com/presentation/d/1XZGIS7u9BS9xrk_wK-A3aC3ksgbhOgre/edit?usp=sharing&amp;amp;ouid=104555579578156232607&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;link&lt;/a&gt; my slides. You might also review &lt;a href=&#34;https://youtu.be/uvOewiY9Aq0&#34;&gt;the recording video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alteryx User Group Francophone Meetup</title>
+      <link>https://mounabelaid.netlify.app/talk/alteryx-user-groupe-francophone/</link>
+      <pubDate>Sat, 10 Jul 2021 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/alteryx-user-groupe-francophone/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;énorme plaisir de donner une présentation intitulée &amp;ldquo;Former C&amp;rsquo;est Apprendre Deux Fois&amp;rdquo; lors d&amp;rsquo;un meetup organisé par &lt;a href=&#34;https://community.alteryx.com/t5/Paris-FR-Francais/AUG-Francophone-Virtuel-4-Mardi-06-Juillet-2021-de-18h15-a-19h30/gpm-p/776663/highlight/true&#34;&gt;l&amp;rsquo;Alteryx User Group Francophone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;▶️ &lt;a href=&#34;https://drive.google.com/file/d/1b_YAE_InIy80JAQ05-dJfeTTfI8aznhk/view?usp=sharing&#34;&gt;Présentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▶️ L&amp;rsquo;enregistrement est partagé sur &lt;a href=&#34;https://youtu.be/pYIqhUQUxow&#34;&gt;ma chaine YouTube&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>useR!2021 - The R Annual Conference, 5-9 July, 2021</title>
+      <link>https://mounabelaid.netlify.app/talk/participation-at-user2021/</link>
+      <pubDate>Mon, 05 Jul 2021 09:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/participation-at-user2021/</guid>
+      <description>&lt;p&gt;I was extremely delighted to participate in &lt;a href=&#34;https://user2021.r-project.org/&#34;&gt;useR!2021 - the R annual conference&lt;/a&gt; held online from 5-9 July 2021.&lt;/p&gt;
+&lt;p&gt;useR! conferences are non-profit conferences organized by community volunteers for the community, supported by the R Foundation. Attendees include R developers and users who are data scientists, business intelligence specialists, analysts, statisticians from academia and industry, and students. The useR! 2021 conference is the first R conference that is global by design, both in audience and leadership. Leveraging a diversity of experiences and backgrounds helps the participants to make the conference accessible and inclusive in as many ways as possible and to grow the global community of R users giving new talents access to this amazing ecosystem.&lt;/p&gt;
+&lt;p&gt;My main contributions are the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Co-author of the &lt;a href=&#34;https://www.conftool.org/user2021/index.php?page=browseSessions&amp;amp;form_session=1#paperID300&#34;&gt;&amp;ldquo;Data Visualization using ggplot2 and its extensions&amp;rdquo;&lt;/a&gt; accepted tutorial&lt;/li&gt;
+&lt;li&gt;Contribute in the &lt;a href=&#34;https://docs.google.com/presentation/d/1ZZsIUKYyy0lGxd7IsZfFYsatwH9dK5qqr2_o9t9vL5k/edit#slide=id.gda9faf73b9_0_0&#34;&gt;&amp;ldquo;Expanding the R community in the Middle East and North 
+Africa (MENA)&amp;rdquo; incubator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chair the &lt;a href=&#34;https://www.youtube.com/watch?v=Kkjkny94dgU&amp;amp;list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2&amp;amp;index=5&#34;&gt;&amp;ldquo;4A - Trends, Markets and Models&amp;rdquo;&lt;/a&gt; session&lt;/li&gt;
+&lt;li&gt;Being a useR!2021 Marmot. I contributed in facilitating and getting the discussions going in the different rooms of the sessions. I invite you to follow &lt;a href=&#34;https://user2021.r-project.org/blog/2020/11/26/welcome-margot-the-marmot/&#34;&gt;this link&lt;/a&gt; to know about the idea behind having Margot, the Marmot.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monthly Community Meeting at Prime Analytics</title>
+      <link>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</link>
+      <pubDate>Thu, 08 Apr 2021 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</guid>
+      <description>&lt;p&gt;At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliever a talk about: R-Ladies Tunis. It was worth it!&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction of R-Ladies Global&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Launch of R-Ladies Tunis&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Various use of the programming language R&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Sharing our recent achievements&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://tinyurl.com/4vn5nxtn&#34;&gt;link&lt;/a&gt; my slides. You find the recording video on my &lt;a href=&#34;https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos&#34;&gt;YouTube Channel&lt;/a&gt; via this &lt;a href=&#34;https://youtu.be/h9ejk4DxpYo&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Club TBS Webinar</title>
+      <link>https://mounabelaid.netlify.app/talk/data-science-club-tbs-webinar/</link>
+      <pubDate>Sat, 06 Mar 2021 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/data-science-club-tbs-webinar/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to participate this Saturday, March 6, 2021 to the event organized by &lt;a href=&#34;https://www.linkedin.com/company/data-science-club-tbs/&#34;&gt;the Data Science Club TBS&lt;/a&gt; on the topic of &lt;a href=&#34;https://www.linkedin.com/events/datascience-analytics-howtogopr6772245248702722048/&#34;&gt;Data Science &amp;amp; Analytics: How to Go PRO&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for organizing such a meetup.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://drive.google.com/file/d/1a8awMfrioeTTY0mrfH2qbG2XoNcC3O0o/view?usp=sharing&#34;&gt;link&lt;/a&gt; my slides. The recording video is uploaded on my &lt;a href=&#34;https://youtu.be/hXMSrSS2oV8&#34;&gt;YouTube channel&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Freiburg year-end Meetup</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to deliver a talk about my journey into the development of &lt;a href=&#34;https://github.com/MounaBelaid/covid19tunisia&#34;&gt;the covid19tunisia R package&lt;/a&gt; on Tuesday, December 1st, 2020!&lt;/p&gt;
+&lt;p&gt;Thank you R-Ladies Freiburg for organizing such &lt;a href=&#34;https://www.meetup.com/rladies-freiburg/events/274391789/&#34;&gt;a meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://drive.google.com/file/d/11UtWxRPc6VzEKFZxuTGvXr7Ewbk7hXmC/view?usp=sharing&#34;&gt;link&lt;/a&gt; my slides. You might also review &lt;a href=&#34;https://www.youtube.com/watch?v=vDitGlt4WdA&#34;&gt;the recording video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

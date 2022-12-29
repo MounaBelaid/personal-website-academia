@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R-based work | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/r-based-work/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/r-based-work/index.xml" rel="self" type="application/rss+xml" />
+    <description>R-based work</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2022</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>R-based work</title>
+      <link>https://mounabelaid.netlify.app/tags/r-based-work/</link>
+    </image>
+    
+    <item>
+      <title>git-github RStudio Cheatsheet</title>
+      <link>https://mounabelaid.netlify.app/project/gitgithubcheatsheet/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/gitgithubcheatsheet/</guid>
+      <description>&lt;p&gt;I was happy to make a contribution of a new cheatsheet in support of &lt;a href=&#34;https://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://github.com/rstudio/cheatsheets/blob/main/git-github.pdf&#34;&gt;cheatsheet&lt;/a&gt; covers the use of Git and GitHub in RStudio.&lt;/p&gt;
+&lt;p&gt;Many high quality cheatsheets on R topics have been generously contributed by R users and are available &lt;a href=&#34;https://www.rstudio.com/resources/cheatsheets/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some cheatsheets are also available in the RStudio IDE under Help &amp;gt; Cheatsheets&lt;/p&gt;
+&lt;p&gt;You may visit the Cheatsheet GitHub Repository by following this &lt;a href=&#34;https://github.com/rstudio/cheatsheets&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to contribute a new cheatsheet, you may follow the &lt;a href=&#34;https://github.com/rstudio/cheatsheets/blob/main/.github/CONTRIBUTING.md&#34;&gt;contributing guidelines&lt;/a&gt; which provide a useful starting place.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s also possible to contribute to this effort by translating the available cheatsheets into many languages e.g. French, Arabic, Italian, Chinese, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal website</title>
+      <link>https://mounabelaid.netlify.app/project/personalwebsite/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/personalwebsite/</guid>
+      <description>&lt;p&gt;I have used the blogdown R package in order to create my personal website. I really recommend this incredible R package for creating websites using RMarkdown and Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
