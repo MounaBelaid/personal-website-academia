@@ -59,8 +59,17 @@ We are always open to collaborate on R-related subjects!
 
 How to reach us: paris@rladies.org
 
+## Upcoming events
+
+| Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
+|---|---|---|---|---|---|---|---|
+| January 12, 2023 | 7pm - 8pm | Quarto/RMarkdown - What's Different? | Webinar [[link](https://www.meetup.com/rladies-paris/events/290237743/)] | [Ted Laderas](https://laderast.github.io/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | To provide soon |
+
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| September 8, 2022 | 7pm - 8:30pm | Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data | Workshop [[link](https://www.meetup.com/rladies-paris/events/287856868/)] | [Meghan Hall](https://meghan.rbind.io/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | To provide |
+| December 15, 2022 | 6:30pm - 8pm | À la Découverte du Machine Learning avec R | Conférence [[link](https://www.meetup.com/rladies-paris/events/290048739/)] | [Natacha Njongwa Yepnga](https://www.linkedin.com/in/natacha-njongwa-yepnga/) | Machine Learning Paris and R-Ladies Paris teams | [Matrice Association](https://matrice.io/) | [Recording video](https://youtu.be/GhJkOogX8xc) |
+| October 13, 2022 | 7pm - 8:30pm | Introduction to {ggplot2} in R | Workshop [[link](https://www.meetup.com/rladies-paris/events/288964586/)] | [Tanya Shapiro](https://www.tanyashapiro.com/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | [Recording video](https://youtu.be/EnNWkF9Jtj4), [GitHub repository](https://github.com/tashapiro/horror-movies), [HTML version of the RMarkdown notebook](https://tashapiro.github.io/horror-movies/code/ggplot-workshop) |
+| September 30, 2022 | 6pm - 7pm | Bringing your plots to cloud nine with {Plotnine} | Workshop [[link](https://www.meetup.com/rladies-paris/events/288227304/)] | [Tanya Shapiro](https://www.tanyashapiro.com/) | R-Ladies Cologne, PyLadies Munich, PyLadies Tunis, and R-Ladies Paris teams | Zoom | [Recording video](https://www.youtube.com/watch?v=JUrRYYFDWJc), [GitHub repository](https://github.com/rladiescologne/plotnine) |
+| September 8, 2022 | 7pm - 8:30pm | Keeping it Tidy: Using the Tidyverse to Efficiently Organize, Transform, and Visualize Data | Workshop [[link](https://www.meetup.com/rladies-paris/events/287856868/)] | [Meghan Hall](https://meghan.rbind.io/) | [Mouna Belaid](https://mounabelaid.netlify.app/) | Zoom | [Recording video](https://youtu.be/Qqpcj-Q5fcc), [Website course](https://meghan.quarto.pub/keeping-it-tidy/) |
