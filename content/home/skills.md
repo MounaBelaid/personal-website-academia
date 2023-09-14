@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "github"
   icon_pack = "fab"
-  name = "Github"
+  name = "GitHub"
   description = "" 
 
 [[feature]] 

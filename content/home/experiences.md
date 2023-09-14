@@ -19,12 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Consultant in R"
+  company = "ArData"
+  company_url = "https://ardata.fr/"
+  location = "Ile de France"
+  date_start = "2023-06-01"
+  date_end = ""
+  description = """
+  
+  **Technologies: R**
+  
+  **Tasks**
+
+  * Development of interactive Shiny applications
+  * Data Visualization
+  * Migration of SAS programs to R
+  * Automating analytical tasks with R
+  * Advocate for open source practices
+
+  """
+
+[[experience]]
 title = "Business Intelligence Consultant"
 company = "Prime Analytics"
 company_url = "https://www.primeanalytics.fr/"
 location = "Paris"
 date_start = "2020-10-01"
-date_end = ""
+date_end = "2023-05-31"
 description = """
   
   **Tasks**

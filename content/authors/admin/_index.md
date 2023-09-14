@@ -30,7 +30,7 @@ name: Mouna Belaid
 organizations:
 - name: Paris, France
 
-role: Business Intelligence Consultant | R-Ladies Global Team Member | Community Organizer of R-Ladies Paris
+role: Consultant in R | R-Ladies Global Team Member | Community Organizer of R-Ladies Paris
 
 social:
 - icon: envelope
@@ -56,11 +56,13 @@ superuser: true
 ---
 
 I'm a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master's degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and 
-[Paris Descartes university](https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing).
+[Paris Descartes university](https://drive.google.com/file/d/1qmbCrkuV33cTGxXUg2XpGjYXKNd5qQ6_/view?usp=sharing).
+
+I work as a consultant in R at the [ArData](https://ardata.fr/) company.
 
 I was working as a Data Scientist in [the Banking industry](https://www.biat.com.tn/) specialized in Credit Risk management. I'm experienced in using data science tools like R, Python and SQL to build data solutions.
 
-Currently, I'm a Business Intelligence Consultant at [Prime Analytics](https://www.primeanalytics.fr/) based in Paris, France. My role consists of proposing data solutions and strategies to business challenges after understanding customer requirements. I'm using technologies like Power BI, Tableau, and Alteryx in order to make smart informed decisions. I'm also a Professional Scrum Master I certified. I'm delighted of being part of an international company that allows me to expand my work on an international scale and get larger responsibilities abroad.
+Additionally, I was working Business Intelligence Consultant at [Prime Analytics](https://www.primeanalytics.fr/) based in Paris, France. My role consisted of proposing data solutions and strategies to business challenges after understanding customer requirements. I used technologies like Power BI, SQL, and Alteryx in order to make smart informed decisions. I'm also a Professional Scrum Master I certified.
 
 I was also extremely happy to be selected as [a Diversity Scholar](https://drive.google.com/file/d/1KanOLRXW7GIuVtXTZMp3U_U1TLRJAAZ0/view?usp=sharing) in conjunction with [the rstudio::global virtual conference](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) in January 2021. This valuable scholarship gives me opportunities for online networking and support before and during the virtual conference. 
 
