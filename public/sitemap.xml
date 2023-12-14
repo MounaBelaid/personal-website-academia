@@ -2,8 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mounabelaid.netlify.app/tags/accessibility/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
     <loc>https://mounabelaid.netlify.app/authors/</loc>
-    <lastmod>2022-10-25T18:00:00+01:00</lastmod>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/categories/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/coding/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/communityoutreach/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/datascience/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/diversity/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/post/hybrid_meetup_20231019/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/inclusivity/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/meetups/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/authors/mouna-belaid-community-organizer-of-r-ladies-paris/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/post/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/categories/r-ladies-paris/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/research/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/rprogramming/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/rstats/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/rstatsfr/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
+  </url><url>
+    <loc>https://mounabelaid.netlify.app/tags/</loc>
+    <lastmod>2023-10-19T23:53:10+02:00</lastmod>
   </url><url>
     <loc>https://mounabelaid.netlify.app/talk/rstudio-enterprise-community-meetup-git-and-github-workshop/</loc>
     <lastmod>2022-10-25T18:00:00+01:00</lastmod>
@@ -17,13 +71,7 @@
     <loc>https://mounabelaid.netlify.app/authors/mouna-belaid/</loc>
     <lastmod>2022-10-25T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://mounabelaid.netlify.app/</loc>
-    <lastmod>2022-10-25T18:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://mounabelaid.netlify.app/tags/rstudio/</loc>
-    <lastmod>2022-10-25T18:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://mounabelaid.netlify.app/tags/</loc>
     <lastmod>2022-10-25T18:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mounabelaid.netlify.app/talk/</loc>
@@ -41,16 +89,7 @@
     <loc>https://mounabelaid.netlify.app/tags/rusergroup/</loc>
     <lastmod>2022-09-24T17:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://mounabelaid.netlify.app/categories/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mounabelaid.netlify.app/tags/coding/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
     <loc>https://mounabelaid.netlify.app/categories/coding/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mounabelaid.netlify.app/tags/datascience/</loc>
     <lastmod>2022-08-18T23:53:10+02:00</lastmod>
   </url><url>
     <loc>https://mounabelaid.netlify.app/categories/datascience/</loc>
@@ -62,31 +101,16 @@
     <loc>https://mounabelaid.netlify.app/tags/deeplearning/</loc>
     <lastmod>2022-08-18T23:53:10+02:00</lastmod>
   </url><url>
-    <loc>https://mounabelaid.netlify.app/tags/meetups/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mounabelaid.netlify.app/authors/mouna-belaid-community-organizer-of-r-ladies-paris/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
     <loc>https://mounabelaid.netlify.app/tags/nlp/</loc>
     <lastmod>2022-08-18T23:53:10+02:00</lastmod>
   </url><url>
-    <loc>https://mounabelaid.netlify.app/post/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
     <loc>https://mounabelaid.netlify.app/post/r-ladies-paris-meetups/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mounabelaid.netlify.app/tags/rprogramming/</loc>
     <lastmod>2022-08-18T23:53:10+02:00</lastmod>
   </url><url>
     <loc>https://mounabelaid.netlify.app/categories/rprogramming/</loc>
     <lastmod>2022-08-18T23:53:10+02:00</lastmod>
   </url><url>
     <loc>https://mounabelaid.netlify.app/categories/rstats/</loc>
-    <lastmod>2022-08-18T23:53:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mounabelaid.netlify.app/tags/rstats/</loc>
     <lastmod>2022-08-18T23:53:10+02:00</lastmod>
   </url><url>
     <loc>https://mounabelaid.netlify.app/categories/webinars/</loc>
