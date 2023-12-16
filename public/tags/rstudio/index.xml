@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstudio | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/rstudio/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    <description>rstudio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Tue, 25 Oct 2022 18:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>rstudio</title>
+      <link>https://mounabelaid.netlify.app/tags/rstudio/</link>
+    </image>
+    
+    <item>
+      <title>First Steps in Learning the Use of Git and GitHub in RStudio</title>
+      <link>https://mounabelaid.netlify.app/talk/rstudio-enterprise-community-meetup-git-and-github-workshop/</link>
+      <pubDate>Tue, 25 Oct 2022 18:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/rstudio-enterprise-community-meetup-git-and-github-workshop/</guid>
+      <description>&lt;p&gt;I was so pleased to go live and animate a practical session about the first steps in learning the use of Git and GitHub in RStudio during a meetup organized by &lt;a href=&#34;https://www.meetup.com/rstudio-enterprise-community-meetup/events/289074232/&#34;&gt;RStudio Enterprise Community Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This workshop served as an introduction to the use of Git and GitHub in RStudio. I was pleased to know that +140 people attended the session.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://mounabelaid.github.io/First-Steps-in-Learning-the-Use-of-Git-and-GitHub-in-RStudio/&#34;&gt;link&lt;/a&gt; my slides.
+The recording video is also available &lt;a href=&#34;https://www.youtube.com/watch?v=jN6tvgt3GK8&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You may add the upcoming events organized by RStudio Enterprise Community Meetup through the following &lt;a href=&#34;https://colorado.rstudio.com/rsc/upcoming-community-events/Upcoming%20Community%20Events.html&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting familiar with Git and GitHub in RStudio</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</guid>
+      <description>&lt;p&gt;I was delighted to animate a workshop for &lt;a href=&#34;https://www.meetup.com/oman-r-user/&#34;&gt;Oman R Users Group&lt;/a&gt; and &lt;a href=&#34;https://www.meetup.com/rladies-abuja/&#34;&gt;R-Ladies Abuja&lt;/a&gt;. The announcement is available &lt;a href=&#34;https://www.meetup.com/oman-r-user/events/288598836/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This workshop served as an introduction to the use of Git and GitHub in RStudio. This workshop was designed for new R programmers, new GitHub users, new Git users, students, and managers. Besides, some programming knowledge with R will be helpful but is not required.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://mounabelaid.github.io/Getting-familiar-with-the-use-of-git-and-github-in-rstudio/&#34;&gt;link&lt;/a&gt; my slides. The recording video is also available &lt;a href=&#34;https://youtu.be/qbI_Xp_EubA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>covid19data | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/covid19data/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/covid19data/index.xml" rel="self" type="application/rss+xml" />
+    <description>covid19data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Tue, 01 Dec 2020 18:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>covid19data</title>
+      <link>https://mounabelaid.netlify.app/tags/covid19data/</link>
+    </image>
+    
+    <item>
+      <title>R-Ladies Freiburg year-end Meetup</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-freiburg-year-end-meetup/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to deliver a talk about my journey into the development of &lt;a href=&#34;https://github.com/MounaBelaid/covid19tunisia&#34;&gt;the covid19tunisia R package&lt;/a&gt; on Tuesday, December 1st, 2020!&lt;/p&gt;
+&lt;p&gt;Thank you R-Ladies Freiburg for organizing such &lt;a href=&#34;https://www.meetup.com/rladies-freiburg/events/274391789/&#34;&gt;a meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://drive.google.com/file/d/11UtWxRPc6VzEKFZxuTGvXr7Ewbk7hXmC/view?usp=sharing&#34;&gt;link&lt;/a&gt; my slides. You might also review &lt;a href=&#34;https://www.youtube.com/watch?v=vDitGlt4WdA&#34;&gt;the recording video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

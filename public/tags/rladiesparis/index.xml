@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RLadiesParis | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/rladiesparis/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/rladiesparis/index.xml" rel="self" type="application/rss+xml" />
+    <description>RLadiesParis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Wed, 21 Jun 2023 18:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>RLadiesParis</title>
+      <link>https://mounabelaid.netlify.app/tags/rladiesparis/</link>
+    </image>
+    
+    <item>
+      <title>Rencontres R 2023</title>
+      <link>https://mounabelaid.netlify.app/talk/rr2023-talk-about-r-ladies-paris/</link>
+      <pubDate>Wed, 21 Jun 2023 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/rr2023-talk-about-r-ladies-paris/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;Rencontres R&amp;rdquo; local conference dedicated to R users in France, provides an exceptional opportunity to bring together the community of R users to exchange ideas, knowledge, and experiences related to this language.&lt;/p&gt;
+&lt;p&gt;I had the pleasure of presenting the R-Ladies Paris community and its activities during a talk.&lt;/p&gt;
+&lt;p&gt;▶️ The replay is available on &lt;a href=&#34;https://youtu.be/Vqb_z--KGt8?si=AAgo_a9YWcxv-NN8&#34;&gt;my YouTube channel&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

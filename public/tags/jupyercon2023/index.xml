@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JupyerCon2023 | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/jupyercon2023/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/jupyercon2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>JupyerCon2023</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Thu, 11 May 2023 18:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>JupyerCon2023</title>
+      <link>https://mounabelaid.netlify.app/tags/jupyercon2023/</link>
+    </image>
+    
+    <item>
+      <title>Jupyter 2023 Conference</title>
+      <link>https://mounabelaid.netlify.app/talk/jupytercon2023-talk-about-r/</link>
+      <pubDate>Thu, 11 May 2023 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/jupytercon2023-talk-about-r/</guid>
+      <description>&lt;p&gt;Folks at JupyterCon2023 did something great! They provided an opportunity for everyone who didn&amp;rsquo;t have a chance to present or had an idea during the conference to give a lightning presentation about it. Talks were selected randomly, and mine was selected!&lt;/p&gt;
+&lt;p&gt;I was attending a Jupyter conference but couldn&amp;rsquo;t resist thinking about the R programming language. That&amp;rsquo;s why I briefly talked about how to create R Notebooks in Jupyter Notebooks.&lt;/p&gt;
+&lt;p&gt;▶️ The replay is available at &lt;a href=&#34;https://www.linkedin.com/posts/mouna-belaid_jupytercon2023-jupyter-r-activity-7062748353389842434-343W?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

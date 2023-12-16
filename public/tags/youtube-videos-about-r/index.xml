@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube videos about R | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/youtube-videos-about-r/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/youtube-videos-about-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>YouTube videos about R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>YouTube videos about R</title>
+      <link>https://mounabelaid.netlify.app/tags/youtube-videos-about-r/</link>
+    </image>
+    
+    <item>
+      <title>Installation of R</title>
+      <link>https://mounabelaid.netlify.app/project/installationofr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/installationofr/</guid>
+      <description>&lt;p&gt;Throughout &lt;a href=&#34;https://www.youtube.com/watch?v=oaEhlJ2c94g&#34;&gt;this video&lt;/a&gt;, I will show you what are the instructions to follow in order to install the &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R software&lt;/a&gt; on your machine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installation of RStudio</title>
+      <link>https://mounabelaid.netlify.app/project/installationofrstudio/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/installationofrstudio/</guid>
+      <description>&lt;p&gt;Throughout &lt;a href=&#34;https://www.youtube.com/watch?v=4l45_Mbm_T0&#34;&gt;this video&lt;/a&gt;, I will show you what are the instructions to follow in order to install &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34;&gt;RStudio&lt;/a&gt; on your machine.&lt;/p&gt;
+&lt;p&gt;RStudio is a free, open-source, cross-platform development environment for R software.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

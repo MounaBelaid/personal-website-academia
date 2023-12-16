@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rladies | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/rladies/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+    <description>rladies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Wed, 21 Jun 2023 18:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>rladies</title>
+      <link>https://mounabelaid.netlify.app/tags/rladies/</link>
+    </image>
+    
+    <item>
+      <title>Rencontres R 2023</title>
+      <link>https://mounabelaid.netlify.app/talk/rr2023-talk-about-r-ladies-paris/</link>
+      <pubDate>Wed, 21 Jun 2023 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/rr2023-talk-about-r-ladies-paris/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;Rencontres R&amp;rdquo; local conference dedicated to R users in France, provides an exceptional opportunity to bring together the community of R users to exchange ideas, knowledge, and experiences related to this language.&lt;/p&gt;
+&lt;p&gt;I had the pleasure of presenting the R-Ladies Paris community and its activities during a talk.&lt;/p&gt;
+&lt;p&gt;▶️ The replay is available on &lt;a href=&#34;https://youtu.be/Vqb_z--KGt8?si=AAgo_a9YWcxv-NN8&#34;&gt;my YouTube channel&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting familiar with Git and GitHub in RStudio</title>
+      <link>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</link>
+      <pubDate>Sat, 24 Sep 2022 17:30:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/r-ladies-abuja-and-oman-r-users-group-git-and-github-workshop/</guid>
+      <description>&lt;p&gt;I was delighted to animate a workshop for &lt;a href=&#34;https://www.meetup.com/oman-r-user/&#34;&gt;Oman R Users Group&lt;/a&gt; and &lt;a href=&#34;https://www.meetup.com/rladies-abuja/&#34;&gt;R-Ladies Abuja&lt;/a&gt;. The announcement is available &lt;a href=&#34;https://www.meetup.com/oman-r-user/events/288598836/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This workshop served as an introduction to the use of Git and GitHub in RStudio. This workshop was designed for new R programmers, new GitHub users, new Git users, students, and managers. Besides, some programming knowledge with R will be helpful but is not required.&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://mounabelaid.github.io/Getting-familiar-with-the-use-of-git-and-github-in-rstudio/&#34;&gt;link&lt;/a&gt; my slides. The recording video is also available &lt;a href=&#34;https://youtu.be/qbI_Xp_EubA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Women in Statistics and Data Science Conference organized by the American Statistical Association</title>
+      <link>https://mounabelaid.netlify.app/talk/women-in-statistics-and-data-science-conference/</link>
+      <pubDate>Thu, 07 Oct 2021 17:00:00 +0100</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/women-in-statistics-and-data-science-conference/</guid>
+      <description>&lt;p&gt;I was pleased to participate as a panelist in the &lt;a href=&#34;https://ww2.amstat.org/meetings/wsds/2021/&#34;&gt;Women in Statistics and Data Science conference&lt;/a&gt; on October 7, 2021 organized by the American Statistical Association. I was sharing the &amp;ldquo;R-Ladies: Building, Growing, and Sustaining a Community&amp;rdquo; panel with wonderful R-Ladies: Shelmith Kariuki, Yanina Bellini Saibene and Athanasia Monika Mowinckel.&lt;/p&gt;
+&lt;p&gt;I was talking about how volunteering has been contributing to my professional career and how there is a way to take part in my future.&lt;/p&gt;
+&lt;p&gt;My special thanks go to Mine Çetinkaya-Rundel for bringing this up!&lt;/p&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://docs.google.com/presentation/d/1XZGIS7u9BS9xrk_wK-A3aC3ksgbhOgre/edit?usp=sharing&amp;amp;ouid=104555579578156232607&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;link&lt;/a&gt; my slides. You might also review &lt;a href=&#34;https://youtu.be/uvOewiY9Aq0&#34;&gt;the recording video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monthly Community Meeting at Prime Analytics</title>
+      <link>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</link>
+      <pubDate>Thu, 08 Apr 2021 18:00:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/presentation-de-r-ladies-tunis-prime-analytics-community-meeting/</guid>
+      <description>&lt;p&gt;At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliver a talk about: R-Ladies Tunis. It was worth it!&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction of R-Ladies Global&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Launch of R-Ladies Tunis&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Various use of the programming language R&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Sharing our recent achievements&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please find in the following &lt;a href=&#34;https://tinyurl.com/4vn5nxtn&#34;&gt;link&lt;/a&gt; my slides. You find the recording video on my &lt;a href=&#34;https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos&#34;&gt;YouTube Channel&lt;/a&gt; at this &lt;a href=&#34;https://youtu.be/h9ejk4DxpYo&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alteryx | Mouna Belaid</title>
+    <link>https://mounabelaid.netlify.app/tags/alteryx/</link>
+      <atom:link href="https://mounabelaid.netlify.app/tags/alteryx/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alteryx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Sat, 10 Jul 2021 18:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
+      <title>Alteryx</title>
+      <link>https://mounabelaid.netlify.app/tags/alteryx/</link>
+    </image>
+    
+    <item>
+      <title>Alteryx User Group Francophone Meetup</title>
+      <link>https://mounabelaid.netlify.app/talk/alteryx-user-groupe-francophone/</link>
+      <pubDate>Sat, 10 Jul 2021 18:30:00 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/talk/alteryx-user-groupe-francophone/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai eu l&amp;rsquo;énorme plaisir de donner une présentation intitulée &amp;ldquo;Former C&amp;rsquo;est Apprendre Deux Fois&amp;rdquo; lors d&amp;rsquo;un meetup organisé par &lt;a href=&#34;https://community.alteryx.com/t5/Paris-FR-Francais/AUG-Francophone-Virtuel-4-Mardi-06-Juillet-2021-de-18h15-a-19h30/gpm-p/776663/highlight/true&#34;&gt;l&amp;rsquo;Alteryx User Group Francophone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;▶️ &lt;a href=&#34;https://drive.google.com/file/d/1b_YAE_InIy80JAQ05-dJfeTTfI8aznhk/view?usp=sharing&#34;&gt;Présentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▶️ L&amp;rsquo;enregistrement est partagé sur &lt;a href=&#34;https://youtu.be/pYIqhUQUxow&#34;&gt;ma chaine YouTube&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
