@@ -5,12 +5,20 @@
     <link>https://mounabelaid.netlify.app/authors/</link>
       <atom:link href="https://mounabelaid.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Wed, 21 Jun 2023 18:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Sat, 16 Dec 2023 23:53:10 +0200</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://mounabelaid.netlify.app/authors/</link>
     </image>
+    
+    <item>
+      <title>Mouna Belaid, Community Lead of R-Ladies Paris</title>
+      <link>https://mounabelaid.netlify.app/authors/mouna-belaid-community-lead-of-r-ladies-paris/</link>
+      <pubDate>Sat, 16 Dec 2023 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/authors/mouna-belaid-community-lead-of-r-ladies-paris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mouna Belaid</title>
@@ -21,19 +29,11 @@
     </item>
     
     <item>
-      <title>Mouna Belaid, Community Lead of R-Ladies Paris</title>
-      <link>https://mounabelaid.netlify.app/authors/mouna-belaid-community-lead-of-r-ladies-paris/</link>
-      <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
-      <guid>https://mounabelaid.netlify.app/authors/mouna-belaid-community-lead-of-r-ladies-paris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://mounabelaid.netlify.app/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mounabelaid.netlify.app/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a passionate engineer in Statistics and Data Analysis, graduated from &lt;a href=&#34;http://www.essai.rnu.tn/en/&#34;&gt;ESSAI&lt;/a&gt;. Additionally, I have earned dual research master&amp;rsquo;s degrees in Data Processing and Complexity of Living Systems from &lt;a href=&#34;http://www.enit.rnu.tn/fr/home/indexfr.php&#34;&gt;ENIT&lt;/a&gt; and
+      <description>&lt;p&gt;I&amp;rsquo;m an engineer in Statistics and Data Analysis, graduated from &lt;a href=&#34;http://www.essai.rnu.tn/en/&#34;&gt;ESSAI&lt;/a&gt;. Additionally, I have earned dual research master&amp;rsquo;s degrees in Data Processing and Complexity of Living Systems from &lt;a href=&#34;http://www.enit.rnu.tn/fr/home/indexfr.php&#34;&gt;ENIT&lt;/a&gt; and
 &lt;a href=&#34;https://drive.google.com/file/d/1qmbCrkuV33cTGxXUg2XpGjYXKNd5qQ6_/view?usp=sharing&#34;&gt;Paris Descartes university&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Throughout my professional experiences, I have gained proficiency in a variety of analytical tools, including R, Python, SQL, Alteryx, and Power BI.&lt;/p&gt;
 &lt;p&gt;In addition, I&amp;rsquo;m certified as a &lt;a href=&#34;https://carpentries.org/index.html&#34;&gt;Carpentries&lt;/a&gt; instructor and hold a Professional Scrum Master I certification.&lt;/p&gt;

@@ -8,10 +8,10 @@ image:
   caption: 
   focal_point: Smart
 links:
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/mounaa_belaid
+  url: https://mastodon.social/@mouna_belaid
 summary: ""
 
 url_code: 

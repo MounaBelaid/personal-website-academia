@@ -45,6 +45,7 @@ date_format = "Jan 2006"
   * Providing meetings and spaces to support new R users
   * Organizing various workshops [- See here](https://www.youtube.com/c/TunisRUserGroup/videos)
   """
+  
 [[experience]]
   title = "Co-Founder & Former Co-Organizer"
   company = "PyLadies Tunis"
@@ -58,6 +59,7 @@ date_format = "Jan 2006"
   * Sharing announcements and tutorials about Python
   * Organizing various workshops [- See here](https://www.youtube.com/c/PyLadiesTunis/videos)
   """
+  
 [[experience]]
   title = "Co-Founder & Former Co-Organizer"
   company = "R-Ladies Tunis"
@@ -71,8 +73,9 @@ date_format = "Jan 2006"
   * Sharing daily news and tutorials about R
   * Organizing various workshops [- See here](https://www.youtube.com/channel/UCfoktGmvJ6rnME7mSP_Ww2g/videos)
   """
+  
 [[experience]]
-  title = "Community Organizer"
+  title = "Community Lead"
   company = "R-Ladies Paris"
   company_url = "https://www.meetup.com/rladies-paris/"
   location = "Paris"
@@ -85,18 +88,20 @@ date_format = "Jan 2006"
   * Content creator at the social media platforms of R-Ladies Paris
   * Organizing R-related workshops/meetups and networking events [- See here](https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug)
   """ 
+  
 [[experience]]
   title = "Moderator"
   company = "Francophone SatRday Conference"
   company_url = "https://satrdays.org/blog/2022/07/20/2022-francophone/"
   location = "Online"
   date_start = "2022-08-06"
-  date_end = ""
+  date_end = "2022-08-06"
   description = """The Francophone SatRday Conference covered the usage of R for Data Science and Epidemiology. The event was held in French.
   * Introduced the Francophone SatRday Conference and each speaker
   * Facilitated discussions by the audience and speakers through the Q&A sessions
   * Guided related interactions [- See here](https://satrdays.org/blog/2022/07/20/2022-francophone/)
   """
+  
 [[experience]]
   title = "Member of Arab-R Committee"
   company = "Arab-R"
@@ -106,5 +111,24 @@ date_format = "Jan 2006"
   date_end = ""
   description = """The Arab-R vision is to create a sustainable capacity building for Arabic R users and to support them through networking, increasing their visibility and drive the creation of more useR/R-Ladies groups in the region. [- See here](https://arabr.github.io/)
   """ 
+  
+[[experience]]
+  title = "Volunteer"
+  company = "Jupyter 2023 Conference"
+  company_url = "https://www.jupytercon.com/"
+  location = "Paris"
+  date_start = "2023-05-01"
+  date_end = "2023-05-01"
+  description = """
+  """ 
+  
+[[experience]]
+  title = "Attendee, co-host at a roundtable, and member of the Program Committee"
+  company = "Shiny 2023 Conference by Appsilon"
+  company_url = "https://shinyconf2023.appsilon.com/"
+  location = "Online"
+  date_start = "2023-03-15"
+  date_end = "2023-03-17"
+  description = """ Inspirational women participated in a panel about empowering diversity in R (Shiny), offering insights into their backgrounds and the challenges they faced while working in the field of data science. You can find the replay [here](https://youtu.be/Sq3fjlbXWaM?si=jNRfw4G4IH4Bn1li)
+  """   
 +++
-

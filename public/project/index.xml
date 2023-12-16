@@ -5,12 +5,43 @@
     <link>https://mounabelaid.netlify.app/project/</link>
       <atom:link href="https://mounabelaid.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://mounabelaid.netlify.app/project/</link>
     </image>
+    
+    <item>
+      <title>An overview of my blog posts</title>
+      <link>https://mounabelaid.netlify.app/project/blogposts/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/blogposts/</guid>
+      <description>&lt;h2 id=&#34;a-list-of-the-blog-posts-i-wrote&#34;&gt;A list of the blog posts I wrote&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Brief description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://community.alteryx.com/t5/Engine-Works/Automating-the-Analytical-Review-of-COREP-Reports-with-Alteryx/ba-p/1029142&#34;&gt;Automating the Analytical Review of COREP Reports with Alteryx&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Showcasing the capabilities of using Alteryx to conduct regulatory report controls within a major European bank.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://community.alteryx.com/t5/Engine-Works/Monitoring-the-Deterioration-of-ECL-Calculations-Using-Alteryx/ba-p/1032864?apid=0012R000025F3jwQAC&amp;amp;crp=0032R00002CVqsoQAD&amp;amp;prid=0032R00002CVqsoQAD&amp;amp;utm_medium=pn_prime_analytics_sas&amp;amp;utm_source=partner_generated&#34;&gt;Monitoring the Deterioration of ECL Calculations Using Alteryx&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Highlighting the use of Alteryx to analyze the continuous evolution of credit risk ratings for counterparties.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.r-consortium.org/blog/2023/11/16/highlights-from-r-ladies-paris-hybrid-meetup-empowering-community-outreach&#34;&gt;Highlights from R-Ladies Paris Hybrid Meetup Empowering Community Outreach&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Delving into the key moments of an hybrid meetup we organized.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>git-github RStudio Cheatsheet</title>

@@ -1,9 +1,9 @@
 +++
-title = "R-Ladies Paris"
+title = "Annual Reports of R-Ladies Paris"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "A list of the annual reports of R-Ladies Paris"
+summary = "A list of the annual reports of R-Ladies Paris that provide detailed information about our activities."
 
 date = 2023-12-16T23:53:10+02:00
 draft = false

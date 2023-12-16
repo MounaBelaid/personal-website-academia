@@ -3,7 +3,7 @@ title = "Jupyter 2023 Conference"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "How to create R notebooks in Jupyter notebooks"
+summary = "How to create R notebooks in Jupyter notebooks."
 
 date = 2023-05-11T18:30:00+02:00
 draft = false

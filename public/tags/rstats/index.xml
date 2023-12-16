@@ -5,12 +5,25 @@
     <link>https://mounabelaid.netlify.app/tags/rstats/</link>
       <atom:link href="https://mounabelaid.netlify.app/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
     <description>RStats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Â© Mouna Belaid, 2023</copyright><lastBuildDate>Wed, 21 Jun 2023 18:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Â© Mouna Belaid, 2023</copyright><lastBuildDate>Sat, 16 Dec 2023 23:53:10 +0200</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>RStats</title>
       <link>https://mounabelaid.netlify.app/tags/rstats/</link>
     </image>
+    
+    <item>
+      <title>Annual Reports of R-Ladies Paris</title>
+      <link>https://mounabelaid.netlify.app/post/r-ladies-paris-annual-reports/</link>
+      <pubDate>Sat, 16 Dec 2023 23:53:10 +0200</pubDate>
+      <guid>https://mounabelaid.netlify.app/post/r-ladies-paris-annual-reports/</guid>
+      <description>&lt;h2 id=&#34;list-of-the-annual-reports-of-r-ladies-paris&#34;&gt;List of the annual reports of R-Ladies Paris&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;2022 annual report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;static/files/2023AnnualReport.pdf&#34;&gt;2023 annual report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Rencontres R 2023</title>
@@ -35,7 +48,7 @@
     </item>
     
     <item>
-      <title>R-Ladies Paris</title>
+      <title>Overview of R-Ladies Paris Meetups</title>
       <link>https://mounabelaid.netlify.app/post/r-ladies-paris-meetups/</link>
       <pubDate>Thu, 18 Aug 2022 23:53:10 +0200</pubDate>
       <guid>https://mounabelaid.netlify.app/post/r-ladies-paris-meetups/</guid>
@@ -107,13 +120,13 @@
 &lt;td&gt;Afterwork [&lt;a href=&#34;https://www.meetup.com/rladies-paris/events/296739584/&#34;&gt;link&lt;/a&gt;]&lt;/td&gt;
 &lt;td&gt;R-Ladies &amp;amp; PyLadies teams and participants&lt;/td&gt;
 &lt;td&gt;R-Ladies &amp;amp; PyLadies Paris teams&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;We are Brewers&amp;rdquo; bar (11ème arrondissement)&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;We are Brewers&amp;rdquo; bar (11Ã¨me arrondissement)&lt;/td&gt;
 &lt;td&gt;&amp;ndash;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;October 19, 2023&lt;/td&gt;
 &lt;td&gt;7pm - 8:30pm&lt;/td&gt;
-&lt;td&gt;Progresser grâce aux données : Retour d&amp;rsquo;expériences en science des données et en consultation scientifique&lt;/td&gt;
+&lt;td&gt;Progresser grÃ¢ce aux donnÃ©es : Retour d&amp;rsquo;expÃ©riences en science des donnÃ©es et en consultation scientifique&lt;/td&gt;
 &lt;td&gt;Talks [&lt;a href=&#34;https://www.meetup.com/rladies-paris/events/296623138/&#34;&gt;link&lt;/a&gt;]&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/kantunez/&#34;&gt;Kim Antunez&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.doana-r.com/&#34;&gt;Anna Doizy&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;R-Ladies Paris teams&lt;/td&gt;
@@ -153,7 +166,7 @@
 &lt;tr&gt;
 &lt;td&gt;May 2, 2023&lt;/td&gt;
 &lt;td&gt;2pm - 3pm&lt;/td&gt;
-&lt;td&gt;Dernière Exploration du {tidyverse} avec le Package {purrr}&lt;/td&gt;
+&lt;td&gt;DerniÃ¨re Exploration du {tidyverse} avec le Package {purrr}&lt;/td&gt;
 &lt;td&gt;Workshop [&lt;a href=&#34;https://www.meetup.com/rladies-paris/events/293018819/&#34;&gt;link&lt;/a&gt;]&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://mvaugoyeau.netlify.com/&#34;&gt;Marie Vaugoyeau&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://mvaugoyeau.netlify.com/&#34;&gt;Marie Vaugoyeau&lt;/a&gt;&lt;/td&gt;
@@ -203,8 +216,8 @@
 &lt;tr&gt;
 &lt;td&gt;December 15, 2022&lt;/td&gt;
 &lt;td&gt;6:30pm - 8pm&lt;/td&gt;
-&lt;td&gt;À la Découverte du Machine Learning avec R&lt;/td&gt;
-&lt;td&gt;Conférence [&lt;a href=&#34;https://www.meetup.com/rladies-paris/events/290048739/&#34;&gt;link&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;Ã€ la DÃ©couverte du Machine Learning avec R&lt;/td&gt;
+&lt;td&gt;ConfÃ©rence [&lt;a href=&#34;https://www.meetup.com/rladies-paris/events/290048739/&#34;&gt;link&lt;/a&gt;]&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/natacha-njongwa-yepnga/&#34;&gt;Natacha Njongwa Yepnga&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Machine Learning Paris and R-Ladies Paris teams&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://matrice.io/&#34;&gt;Matrice Association&lt;/a&gt;&lt;/td&gt;

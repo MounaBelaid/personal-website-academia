@@ -58,7 +58,7 @@ superuser: true
 
 ---
 
-I'm a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/). Additionally, I have earned dual research master's degrees in Data Processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and 
+I'm an engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/). Additionally, I have earned dual research master's degrees in Data Processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and 
 [Paris Descartes university](https://drive.google.com/file/d/1qmbCrkuV33cTGxXUg2XpGjYXKNd5qQ6_/view?usp=sharing). 
 
 Throughout my professional experiences, I have gained proficiency in a variety of analytical tools, including R, Python, SQL, Alteryx, and Power BI. 

@@ -40,68 +40,45 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-title = "Opportunity Scholar at the posit::conf(2023), and Teacher Assistant"
-company = "Posit"
-company_url = "https://posit.co/conference/"
-location = "Chicago, USA"
-date_start = "2023-09-01"
-date_end = "2023-09-01"
-description = """
+  title = "Opportunity Scholar at the posit::conf(2023), and Teacher Assistant"
+  company = "Posit"
+  company_url = "https://posit.co/conference/"
+  location = "Chicago, USA"
+  date_start = "2023-09-01"
+  date_end = "2023-09-01"
+  description = """ On the second day of the workshops at the posit::conf(2023), I was delighted to serve as a teacher assistant in the 'From R User to R Programmer' workshop, led by the talented Emma Rand and Ian Lyttle in a packed room. I'm thrilled to have had this opportunity alongside Garrett Grolemund and Stephanie Hazlitt.
+  """
+
+[[experience]]
+  title = "Attendee"
+  company = "Rencontres R 2023"
+  company_url = "https://rr2023.sciencesconf.org/"
+  location = "Avignon, France"
+  date_start = "2023-06-01"
+  date_end = "2023-06-01"
+  description = """
 
   """
 
 [[experience]]
-title = "Attendee"
-company = "Rencontres R 2023"
-company_url = "https://rr2023.sciencesconf.org/"
-location = "Avignon, France"
-date_start = "2023-06-01"
-date_end = "2023-06-01"
-description = """
-
-  """
-  
-[[experience]]
-title = "Volunteer"
-company = "Jupyter 2023 Conference"
-company_url = "https://www.jupytercon.com/"
-location = "Paris"
-date_start = "2023-05-01"
-date_end = "2023-05-01"
-description = """
-
-  """
-  
-[[experience]]
-title = "Attendee, co-host at a roundtable, and member of the Program Committee"
-company = "Shiny 2023 Conference by Appsilon"
-company_url = "https://shinyconf2023.appsilon.com/"
-location = "Online"
-date_start = "2023-03-15"
-date_end = "2023-03-17"
-description = """
+  title = "Attendee"
+  company = "Alteryx Inspire EMEA 2022"
+  company_url = "https://www.alteryx.com/"
+  location = "Amsterdam"
+  date_start = "2022-10-01"
+  date_end = "2022-10-01"
+  description = """ Inspire EMEA 2022 is the gathering place for individuals inspired and motivated by the value of analytics through Alteryx.
 
   """
 
 [[experience]]
-title = "Attendee"
-company = "Alteryx Inspire EMEA 2022"
-company_url = "https://www.alteryx.com/"
-location = "Amsterdam"
-date_start = "2022-10-01"
-date_end = "2022-10-01"
-description = """ 
-
-  """
-
-[[experience]]
-title = "Business Intelligence Consultant"
-company = "Prime Analytics"
-company_url = "https://www.primeanalytics.fr/"
-location = "Paris"
-date_start = "2020-10-01"
-date_end = "2023-05-31"
-description = """
+  title = "Business Intelligence Consultant"
+  company = "Prime Analytics"
+  company_url = "https://www.primeanalytics.fr/"
+  location = "Paris"
+  date_start = "2020-10-01"
+  date_end = "2023-05-31"
+  description = """
   
   **Tasks**
 
@@ -208,6 +185,4 @@ description = """
   
   **Technologies: Python, OpenCV, Tesseract**
   """
-  
 +++
-

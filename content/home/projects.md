@@ -45,6 +45,10 @@ subtitle = ""
   name = "YouTube videos about R"
   tag = "YouTube videos about R" 
   
+    [[content.filter_button]]
+  name = "Blog posts"
+  tag = "Blog posts" 
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
