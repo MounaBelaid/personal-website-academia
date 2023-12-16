@@ -3,7 +3,7 @@ title = "Alteryx User Group Francophone Meetup"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Former C’est Apprendre Deux Fois"
+summary = "Former C'est Apprendre Deux Fois"
 
 date = 2021-07-10T18:30:00+02:00
 draft = false

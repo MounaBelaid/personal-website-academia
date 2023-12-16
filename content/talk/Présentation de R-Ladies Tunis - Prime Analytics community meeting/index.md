@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags # = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["rstats","rladies","rladiestunis","community","sharingexperience", "Rprogramming"]
+tags = ["rstats","rstatsfr","rladies","rladiestunis","community","sharingexperience", "Rprogramming"]
 categories = []
 
 # Does the project detail page use math formatting?
@@ -42,7 +42,7 @@ projects = []
 +++
 
 
-At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliever a talk about: R-Ladies Tunis. It was worth it! 
+At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliver a talk about: R-Ladies Tunis. It was worth it! 
 
 Agenda: 
 - Introduction of R-Ladies Global</li>
@@ -51,4 +51,4 @@ Agenda:
 - Sharing our recent achievements</li>
 
 
-Please find in the following [link](https://tinyurl.com/4vn5nxtn) my slides. You find the recording video on my [YouTube Channel](https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos) via this [link](https://youtu.be/h9ejk4DxpYo).
+Please find in the following [link](https://tinyurl.com/4vn5nxtn) my slides. You find the recording video on my [YouTube Channel](https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos) at this [link](https://youtu.be/h9ejk4DxpYo).

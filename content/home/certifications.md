@@ -19,8 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Credly"
+  organization_url = "https://www.credly.com/users/mouna-belaid"
+  title = "My tech badges on Credly"
+  url = "https://www.credly.com/users/mouna-belaid"
+  certificate_url = ""
+  date_start = "2023-12-15"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "Alteryx"
-  organization_url = "https://www.credly.com/org/alteryx"
+  organization_url = "https://www.alteryx.com/"
   title = "Alteryx Foundational Micro-Credential"
   url = "https://www.credly.com/badges/699512b4-ccdc-476c-ac73-3e2b1f25434e/linked_in_profile"
   certificate_url = "https://www.credly.com/badges/699512b4-ccdc-476c-ac73-3e2b1f25434e/linked_in_profile"
@@ -59,7 +69,7 @@ date_format = "Jan 2006"
   description = "The Alteryx Partner Server Implementation Certification is intended for individuals who can demonstrate skills, abilities, background, and knowledge required to deliver the Implementation Services around Alteryx Server. There are different categories of questions that appear on the Partner Server Implementation exam. Some of these include: Architecture, Installation, Configuration, Authentication, Persistence / MongoDB, Gallery Usage, Gallery Administration, API, Command Line, Backups, Troubleshooting."
 
 [[item]]
-  organization = "R Studio"
+  organization = "RStudio"
   organization_url = "https://www.rstudio.com/"
   title = "Diversity Scholarship in Conjunction with the rstudio::global Virtual Conference 2021"
   url = "https://blog.rstudio.com/2020/11/30/diversity-scholarships/"

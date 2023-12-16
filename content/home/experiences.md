@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Consultant in R"
+  title = "Data Consultant"
   company = "ArData"
   company_url = "https://ardata.fr/"
   location = "Ile de France"
@@ -31,11 +31,66 @@ date_format = "Jan 2006"
   
   **Tasks**
 
-  * Development of interactive Shiny applications
-  * Data Visualization
+  * Development of interactive Shiny web applications
+  * Implementing effective data visualization practices
   * Migration of SAS programs to R
   * Automating analytical tasks with R
   * Advocate for open source practices
+
+  """
+
+[[experience]]
+title = "Opportunity Scholar at the posit::conf(2023), and Teacher Assistant"
+company = "Posit"
+company_url = "https://posit.co/conference/"
+location = "Chicago, USA"
+date_start = "2023-09-01"
+date_end = "2023-09-01"
+description = """
+
+  """
+
+[[experience]]
+title = "Attendee"
+company = "Rencontres R 2023"
+company_url = "https://rr2023.sciencesconf.org/"
+location = "Avignon, France"
+date_start = "2023-06-01"
+date_end = "2023-06-01"
+description = """
+
+  """
+  
+[[experience]]
+title = "Volunteer"
+company = "Jupyter 2023 Conference"
+company_url = "https://www.jupytercon.com/"
+location = "Paris"
+date_start = "2023-05-01"
+date_end = "2023-05-01"
+description = """
+
+  """
+  
+[[experience]]
+title = "Attendee, co-host at a roundtable, and member of the Program Committee"
+company = "Shiny 2023 Conference by Appsilon"
+company_url = "https://shinyconf2023.appsilon.com/"
+location = "Online"
+date_start = "2023-03-15"
+date_end = "2023-03-17"
+description = """
+
+  """
+
+[[experience]]
+title = "Attendee"
+company = "Alteryx Inspire EMEA 2022"
+company_url = "https://www.alteryx.com/"
+location = "Amsterdam"
+date_start = "2022-10-01"
+date_end = "2022-10-01"
+description = """ 
 
   """
 

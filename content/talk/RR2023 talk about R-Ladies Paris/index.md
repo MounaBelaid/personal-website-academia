@@ -1,11 +1,11 @@
 +++
-title = "Monthly Community Meeting at Prime Analytics"
+title = "Rencontres R 2023"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Presentation of R-Ladies Tunis"
+summary = "R-Ladies Paris, une communauté engagée garantissant la diversité et l'inclusivité"
 
-date = 2021-04-08T18:00:00+02:00
+date = 2023-06-21T18:30:00+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags # = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["rstats","rstatsfr","rladies","rladiestunis","community","sharingexperience", "Rprogramming"]
+tags = ["RStats","RStatsFr","RR2023","RLadiesParis","RLadies"]
 categories = []
 
 # Does the project detail page use math formatting?
@@ -34,21 +34,15 @@ projects = []
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "[ ](https://rladies.org/tunisia-rladies/)"
+  caption = "[ ]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
+The "Rencontres R" local conference dedicated to R users in France, provides an exceptional opportunity to bring together the community of R users to exchange ideas, knowledge, and experiences related to this language.
 
-At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliver a talk about: R-Ladies Tunis. It was worth it! 
+I had the pleasure of presenting the R-Ladies Paris community and its activities during a talk.
 
-Agenda: 
-- Introduction of R-Ladies Global</li>
-- Launch of R-Ladies Tunis</li>
-- Various use of the programming language R</li>
-- Sharing our recent achievements</li>
-
-
-Please find in the following [link](https://tinyurl.com/4vn5nxtn) my slides. You find the recording video on my [YouTube Channel](https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos) at this [link](https://youtu.be/h9ejk4DxpYo).
+:arrow_forward: The replay is available on [my YouTube channel](https://youtu.be/Vqb_z--KGt8?si=AAgo_a9YWcxv-NN8).

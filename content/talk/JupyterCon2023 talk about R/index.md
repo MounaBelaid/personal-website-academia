@@ -1,11 +1,11 @@
 +++
-title = "Monthly Community Meeting at Prime Analytics"
+title = "Jupyter 2023 Conference"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Presentation of R-Ladies Tunis"
+summary = "How to create R notebooks in Jupyter notebooks"
 
-date = 2021-04-08T18:00:00+02:00
+date = 2023-05-11T18:30:00+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags # = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["rstats","rstatsfr","rladies","rladiestunis","community","sharingexperience", "Rprogramming"]
+tags = ["RStats","RStatsFr","JupyerCon2023","Rprogramming"]
 categories = []
 
 # Does the project detail page use math formatting?
@@ -34,21 +34,15 @@ projects = []
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "[ ](https://rladies.org/tunisia-rladies/)"
+  caption = "[ ]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
+Folks at JupyterCon2023 did something great! They provided an opportunity for everyone who didn't have a chance to present or had an idea during the conference to give a lightning presentation about it. Talks were selected randomly, and mine was selected!
 
-At Prime Analytics we organize a very effective monthly community meeting to exchange ideas and information, and to share our experiences about things that matter to us. I chose to deliver a talk about: R-Ladies Tunis. It was worth it! 
+I was attending a Jupyter conference but couldn't resist thinking about the R programming language. That's why I briefly talked about how to create R Notebooks in Jupyter Notebooks.
 
-Agenda: 
-- Introduction of R-Ladies Global</li>
-- Launch of R-Ladies Tunis</li>
-- Various use of the programming language R</li>
-- Sharing our recent achievements</li>
-
-
-Please find in the following [link](https://tinyurl.com/4vn5nxtn) my slides. You find the recording video on my [YouTube Channel](https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos) at this [link](https://youtu.be/h9ejk4DxpYo).
+:arrow_forward: The replay is available at [this link](https://www.linkedin.com/posts/mouna-belaid_jupytercon2023-jupyter-r-activity-7062748353389842434-343W?utm_source=share&utm_medium=member_desktop).
