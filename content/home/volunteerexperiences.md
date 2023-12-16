@@ -129,6 +129,6 @@ date_format = "Jan 2006"
   location = "Online"
   date_start = "2023-03-15"
   date_end = "2023-03-17"
-  description = """ Inspirational women participated in a panel about empowering diversity in R (Shiny), offering insights into their backgrounds and the challenges they faced while working in the field of data science. You can find the replay [here](https://youtu.be/Sq3fjlbXWaM?si=jNRfw4G4IH4Bn1li)
+  description = """ Inspirational women participated in a panel about empowering diversity in R (Shiny), offering insights into their backgrounds and the challenges they faced while working in the field of data science. You can find the replay [here](https://youtu.be/Sq3fjlbXWaM?si=jNRfw4G4IH4Bn1li).
   """   
 +++
