@@ -45,5 +45,3 @@ projects = []
 
 * [2022 annual report](https://mounabelaid.netlify.app/files/2022AnnualReport.pdf)
 * [2023 annual report](https://mounabelaid.netlify.app/files/2023AnnualReport.pdf)
-
-
