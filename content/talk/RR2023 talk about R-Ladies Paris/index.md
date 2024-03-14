@@ -3,7 +3,7 @@ title = "Rencontres R 2023"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "R-Ladies Paris, une communauté engagé garantissant la diversité et l'inclusivité."
+summary = "R-Ladies Paris, a committed community promising diversity and inclusivity."
 
 date = 2023-06-21T18:30:00+02:00
 draft = false
