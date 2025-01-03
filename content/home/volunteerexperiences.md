@@ -72,21 +72,7 @@ date_format = "Jan 2006"
   * Providing meetings and spaces to support new R users
   * Sharing daily news and tutorials about R
   * Organizing various workshops [- See here](https://www.youtube.com/channel/UCfoktGmvJ6rnME7mSP_Ww2g/videos)
-  """
-  
-[[experience]]
-  title = "Community Lead"
-  company = "R-Ladies Paris"
-  company_url = "https://www.meetup.com/rladies-paris/"
-  location = "Paris"
-  date_start = "2022-07-18"
-  date_end = ""
-  description = """
-  * Bringing R enthusiasts together to learn new things from each other
-  * Promoting gender inclusivity among R practitioners and learners
-  * Helping advocate for the power of R
-  * Content creator at the social media platforms of R-Ladies Paris
-  * Organizing R-related workshops/meetups and networking events [- See here](https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug)
+
   """ 
   
 [[experience]]
@@ -124,11 +110,35 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Attendee, co-host at a roundtable, and member of the Program Committee"
-  company = "Shiny 2023 Conference by Appsilon"
+  company = "Shiny 2023 Conference"
   company_url = "https://shinyconf2023.appsilon.com/"
   location = "Online"
   date_start = "2023-03-15"
   date_end = "2023-03-17"
   description = """ Inspirational women participated in a panel about empowering diversity in R (Shiny), offering insights into their backgrounds and the challenges they faced while working in the field of data science. You can find the replay [here](https://youtu.be/Sq3fjlbXWaM?si=jNRfw4G4IH4Bn1li).
-  """   
+  """  
+  
+[[experience]]
+  title = "Moderator"
+  company = "Shiny 2024 Conference"
+  company_url = "https://www.shinyconf.com/shinyconf-2024/homepage"
+  location = "Online"
+  date_start = "2024-04-19"
+  date_end = "2024-04-19"
+  description = """ShinyConf is the biggest virtual Shiny event hosted by [Appsilon](https://www.appsilon.com/).
+  """  
+[[experience]]
+  title = "Community Lead"
+  company = "R-Ladies Paris"
+  company_url = "https://www.meetup.com/rladies-paris/"
+  location = "Paris"
+  date_start = "2022-07-18"
+  date_end = ""
+  description = """
+  * Bringing R enthusiasts together to learn new things from each other
+  * Promoting gender inclusivity among R practitioners and learners
+  * Helping advocate for the power of R
+  * Content creator at the social media platforms of R-Ladies Paris
+  * Organizing R-related workshops/meetups and networking events [- See here](https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug)  
+  """
 +++
