@@ -5,12 +5,27 @@
     <link>https://mounabelaid.netlify.app/project/</link>
       <atom:link href="https://mounabelaid.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2024</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mouna Belaid, 2025</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mounabelaid.netlify.app/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://mounabelaid.netlify.app/project/</link>
     </image>
+    
+    <item>
+      <title>{RMarkdown2Quarto} Shiny App for Switching to Quarto</title>
+      <link>https://mounabelaid.netlify.app/project/rmarkdown2quarto/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://mounabelaid.netlify.app/project/rmarkdown2quarto/</guid>
+      <description>&lt;p&gt;Are you thinking about a shift to Quarto? With the &lt;a href=&#34;https://mounaabelaid.shinyapps.io/RMarkdown2Quarto/&#34;&gt;{RMarkdown2Quarto}&lt;/a&gt; Shiny application, you can switch quickly and start to improve your work quality.
+It&amp;rsquo;s a Shiny application that ensures you make the right choice without any doubt. The web application aims to convert RMarkdown documents
+into Quarto documents.
+The conversion process involves locating a list of available RMarkdown files within a user-specified folder and subsequently transforming
+the Rmd syntax format to qmd format in the front matter. The user can also choose a folder from which only .Rmd files will be selected if
+the application runs locally. If you don&amp;rsquo;t have an Rmd file on hand, you can export the demo RMarkdown file and import it to test the application. This application also aims to facilitate the conversion of RMarkdown files to Quarto files by converting the in-header chunk option syntax to the in-body syntax in the .qmd converted available files.
+I used the bslib, ShinyFiles, and ShinyAce packages for my tech stack.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An overview of my blog posts</title>
@@ -35,11 +50,11 @@
 &lt;td&gt;Highlighting the use of Alteryx to analyze the continuous evolution of credit risk ratings for counterparties.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.r-consortium.org/blog/2023/11/16/highlights-from-r-ladies-paris-hybrid-meetup-empowering-community-outreach&#34;&gt;Highlights from R-Ladies Paris Hybrid Meetup Empowering Community Outreach&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://archive.r-consortium.org/blog/2023/11/16/highlights-from-r-ladies-paris-hybrid-meetup-empowering-community-outreach&#34;&gt;Highlights from R-Ladies Paris Hybrid Meetup Empowering Community Outreach&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Delving into the key moments of an hybrid meetup we organized.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.r-consortium.org/blog/2023/12/15/empowering-r-in-paris-mouna-belaids-journey-with-r-ladies-and-the-french-r-community&#34;&gt;Empowering R in Paris: Mouna Belaid&amp;rsquo;s Journey with R-Ladies and the French R Community&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://archive.r-consortium.org/blog/2023/12/15/empowering-r-in-paris-mouna-belaids-journey-with-r-ladies-and-the-french-r-community&#34;&gt;Empowering R in Paris: Mouna Belaid&amp;rsquo;s Journey with R-Ladies and the French R Community&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Getting interviewed by R Consortium&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
