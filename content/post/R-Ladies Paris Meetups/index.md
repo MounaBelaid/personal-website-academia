@@ -53,7 +53,7 @@ We exchange materials, discuss any issues we have on working with R, and share n
 
 If you have missed our previous meetups, we are happy to share with you all the recording videos on our YouTube channel. Please have a look [here](https://www.youtube.com/channel/UCWTFKtW_ReLP9zmMTYjRqug) and don't forget to subscribe!
 
-Please find below a list of the previous meetups organized by [R-Ladies Paris](https://twitter.com/RLadiesParis). You are welcome to join [our Meetup group](https://www.meetup.com/rladies-paris/) to be notified about our next activities!
+Please find below a list of the previous meetups organized by [R-Ladies Paris](https://bsky.app/profile/rladiesparis.bsky.social). You are welcome to join [our Meetup group](https://www.meetup.com/rladies-paris/) to be notified about our next activities!
 
 We are always open to collaborate on R-related subjects!
 
@@ -61,18 +61,21 @@ How to reach out to us: paris@rladies.org
 
 ## Upcoming events
 
-| Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
-|---|---|---|---|---|---|---|---|
-|January 16, 2024| 6pm - 7:30pm |Introduction to Reproducible Publications with RStudio | Workshop | [Torin White](https://www.linkedin.com/in/torinwhite3100/)| R-Ladies Rome and R-Ladies Paris teams | Zoom | To be provided|
+We will keep you updated on our upcoming events.
 
 ## Past events
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-|November 14, 2023| 12:30pm - 1pm |{glitter} makes SPARQL : an R package for exploring and collecting semantic web data |Webinar [[link](https://www.meetup.com/rladies-paris/events/297203083/)] | [Lise Vaudor](https://perso.ens-lyon.fr/lise.vaudor/page-d-exemple/)| R-Ladies Paris team|Zoom|[Recording video](https://youtu.be/95XGWhHzX0E)|
+|October 21, 2024| 7pm - 8pm | Watch Party for the [posit::conf(2024)](https://github.com/posit-conf-2024) | Webinar [[link](https://www.meetup.com/rladies-paris/events/304020928/)] | Chaima Boughanmi | R-Ladies Paris team | Zoom | [Recording video](https://youtu.be/tD9Vv_wSDdY) |
+|April 29, 2024| 7pm - 8:30pm | Creating packages in R and practical development of statistical learning models with {Tidymodels} | Talks [[link](https://www.meetup.com/rladies-paris/events/300044860/)] | [Maria Paula Caldas](https://www.linkedin.com/in/mpaulacaldas/) & [Julie Aubert](https://julieaubert.github.io/myprowebsite/)| R-Ladies Paris team | [datacraft](https://datacraft.paris/) | [Recording video](https://youtu.be/wEVKoPhB25g) |
+|April 24, 2024| 7pm - 8pm |Embracing open-source software to implement precision medicine | Webinar [[link](https://www.meetup.com/rladies-paris/events/300024707/)] | [Guillaume Desachy](https://www.linkedin.com/in/guillaume-desachy/)| R-Ladies Paris team | Zoom | [Recording video](https://youtu.be/Mhdjn5EB1OE) |
+|April 11, 2024| 7pm - 8pm |Get to Know the Epidemiologist R Handbook – the R Code Reference Manual| Webinar [[link](https://www.meetup.com/rladies-paris/events/300211960/)] | [Paulina Jedynak](https://www.linkedin.com/in/pau-jedynak-phd/)| R-Ladies Paris team | Zoom | [Recording video](https://youtu.be/GSPLnXbuKXk) |
+|January 16, 2024| 6pm - 7:30pm |Introduction to Reproducible Publications with RStudio | Workshop [[link](https://www.meetup.com/rladies-paris/events/298391513/)] | [Torin White](https://www.linkedin.com/in/torinwhite/)| R-Ladies Rome and R-Ladies Paris teams | Zoom | [Recording video](https://youtu.be/CDwVQOpt_FA?si=ZyR2MZRJoP-Mt-1o), [GitHub Repository](https://github.com/UCSBCarpentry/Quarto-Project-Example) |
+|November 14, 2023| 12:30pm - 1pm | {glitter} makes SPARQL : an R package for exploring and collecting semantic web data | Webinar [[link](https://www.meetup.com/rladies-paris/events/297203083/)] | [Lise Vaudor](https://perso.ens-lyon.fr/lise.vaudor/page-d-exemple/)| R-Ladies Paris team|Zoom|[Recording video](https://youtu.be/95XGWhHzX0E)|
 |October 24, 2023| 7pm - 8:30pm |PyLadies Paris & R-Ladies Paris Aferwork meetup | Afterwork [[link](https://www.meetup.com/rladies-paris/events/296739584/)] | R-Ladies & PyLadies teams and participants| R-Ladies & PyLadies Paris teams|"We are Brewers" bar (11ème arrondissement) | -- |
-|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique | Talks [[link](https://www.meetup.com/rladies-paris/events/296623138/)]| [Kim Antunez](https://www.linkedin.com/in/kantunez/) & [Anna Doizy](https://www.doana-r.com/)| R-Ladies Paris teams|Zoom & [datacraft](https://datacraft.paris/) local | [Recording video](https://youtu.be/6qKE9NkN-Uc)|
-|October 3, 2023 | 7pm - 8 pm | Watch Party for [posit::conf(2023)]() | Webinar [[link](https://www.meetup.com/rladies-paris/events/296164032/)] | Mouna Belaid & Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|[Recording video](https://www.youtube.com/watch?v=2ygKXyEjXFY&t=642s)|
+|October 19, 2023| 7pm - 8:30pm | Progresser grâce aux données : Retour d'expériences en science des données et en consultation scientifique | Talks [[link](https://www.meetup.com/rladies-paris/events/296623138/)]| [Kim Antunez](https://www.linkedin.com/in/kantunez/) & [Anna Doizy](https://www.doana-r.com/)| R-Ladies Paris teams| Zoom & [datacraft](https://datacraft.paris/) local | [Recording video](https://youtu.be/6qKE9NkN-Uc)|
+|October 3, 2023 | 7pm - 8 pm | Watch Party for the [posit::conf(2023)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2023/) | Webinar [[link](https://www.meetup.com/rladies-paris/events/296164032/)] | Mouna Belaid & Rita Giordano| R-Ladies Stasbourg and R-Ladies Paris teams|Zoom|[Recording video](https://www.youtube.com/watch?v=2ygKXyEjXFY&t=642s)|
 | September 8, 2023 | 4pm - 5pm | Generative AI for R Programmers | Webinar [[link](https://www.meetup.com/rladies-paris/events/294207284/)] | [Melissa Van Bussel](https://www.youtube.com/@ggnot2) | R-Ladies Lagos and R-Ladies Paris teams | CMX |[Recording video](https://youtu.be/jvxHBjSvOwQ)
 | May 6, 2023 | 10am - 12pm | R Package Development Workflow | Workshop [[link](https://www.meetup.com/rladies-paris/events/293202681/)] | [Emi Tanaka](https://emitanaka.org/) | R-Ladies Lagos and R-Ladies Paris teams| CMX | [Recording video](https://youtu.be/Qkq5MM-8gp4), [Code](https://rpubs.com/emitanaka/rladies-lagos-paris-2023) |
 | May 2, 2023 | 2pm - 3pm | Dernière Exploration du {tidyverse} avec le Package {purrr} | Workshop [[link](https://www.meetup.com/rladies-paris/events/293018819/)] | [Marie Vaugoyeau](https://mvaugoyeau.netlify.com/) | [Marie Vaugoyeau](https://mvaugoyeau.netlify.com/) | [Twitch](https://www.twitch.tv/marievaugoyeau/videos) | [Recording video](https://youtu.be/TofQt2f8iNM) |

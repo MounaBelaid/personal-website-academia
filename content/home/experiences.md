@@ -35,7 +35,8 @@ date_format = "Jan 2006"
   * Implementing effective data visualization practices
   * Migration of SAS programs to R
   * Automating analytical tasks with R
-  * Advocate for open source practices
+  * Providing training in R
+  * Advocate for open-source practices
 
   """
 
