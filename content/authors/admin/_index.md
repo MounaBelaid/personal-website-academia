@@ -39,6 +39,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCID33pDULsQg2y4FVlv4CnQ/videos
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/mounabelaid.bsky.social
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@mouna_belaid
