@@ -43,6 +43,7 @@ projects = []
 
 ## List of the annual reports of R-Ladies Paris
 
+* [2025 annual report](https://mounabelaid.netlify.app/files/2025AnnualReport.pdf)
 * [2024 annual report](https://mounabelaid.netlify.app/files/2024AnnualReport.pdf)
 * [2023 annual report](https://mounabelaid.netlify.app/files/2023AnnualReport.pdf)
 * [2022 annual report](https://mounabelaid.netlify.app/files/2022AnnualReport.pdf)

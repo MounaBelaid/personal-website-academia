@@ -20,21 +20,32 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data Consultant"
+  company = "Prime Analytics"
+  company_url = "https://www.primeanalytics.fr/"
+  location = "Paris"
+  date_start = "2025-04-01"
+  date_end = ""
+  description = """
+  
+  """
+  
+[[experience]]
+  title = "Data Consultant"
   company = "ArData"
   company_url = "https://ardata.fr/"
   location = "Ile de France"
   date_start = "2023-06-01"
-  date_end = ""
+  date_end = "2025-03-01"
   description = """
   
-  **Technologies: R**
+  **Technologies: R, Python**
   
   **Tasks**
 
-  * Development of interactive Shiny web applications
+  * Development of interactive R Shiny web applications
   * Implementing effective data visualization practices
-  * Migration of SAS programs to R
-  * Automating analytical tasks with R
+  * Migration of SAS programs to R and Python
+  * Automating analytical tasks with R and Python
   * Providing training in R
   * Advocate for open-source practices
 
@@ -51,7 +62,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Attendee"
+  title = "Attendee & Speaker"
   company = "Rencontres R 2023"
   company_url = "https://rr2023.sciencesconf.org/"
   location = "Avignon, France"

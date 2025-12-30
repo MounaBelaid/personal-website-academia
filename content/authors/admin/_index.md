@@ -70,7 +70,7 @@ In addition, I'm certified as a [Carpentries](https://carpentries.org/index.html
 
 I began my career as a data scientist in the banking sector before moving to Paris.
 
-In my current role as a Data Consultant at the French [ArData](https://ardata.fr/) consulting company, I specialize in using the R programming language. I'm involved in the creation of interactive data-driven web applications using Shiny, implementing effective data visualization practices, automating analytical processes, and providing training in R.
+I'm a Data Consultant at Prime Analytics.
 
 I was pleased to have been awarded the Opportunity 2023 Scholarship from Posit, and to have been selected as [a Diversity Scholar](https://drive.google.com/file/d/1KanOLRXW7GIuVtXTZMp3U_U1TLRJAAZ0/view?usp=sharing) in conjunction with [the rstudio::global virtual conference](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) in January 2021.
 
